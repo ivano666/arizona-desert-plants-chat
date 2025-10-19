@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Arizona Desert Plants Assistant is a Retrieval-Augmented Generation (RAG) application designed to help plant enthusiasts, homeowners, and landscaping professionals learn about and successfully cultivate the extensive variety of plants in the Sonoran Desert. By combining scientific botanical knowledge with practical Arizona-specific growing advice, this system provides authoritative, context-aware answers to questions about desert plant care, identification, and landscaping.
+The Arizona Desert Plants Assistant is a Retrieval-Augmented Generation (RAG) application designed to help plant enthusiasts, homeowners, and landscaping professionals learn about and successfully cultivate the extensive variety of plants in the Sonoran Desert. By combining scientific botanical knowledge with practical Arizona-specific growing advice, this system intents to provide authoritative, context-aware answers to questions about desert plant care, identification, and landscaping.
 
 ## Problem Statement
 
