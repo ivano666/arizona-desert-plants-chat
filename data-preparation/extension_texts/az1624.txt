@@ -1,0 +1,241 @@
+--- Page 1 ---
+AND LIFE SCIENCES
+AZ1624 March 2014
+W Q , E. y H
+ater uality coli and our ealtH
+Channah Rock and Berenise Rivera
+Figure 1. E. coli - Gram-negative, facultatively anaerobic, rod prokaryote; with multiple flagella and fimbriae.
+E. coli can cause urinary tract infections, traveler’s diarrhea and nosocomial infections. (Dennis Kunkel
+Microscopy, Inc./Visuals Unlimited, Inc.)
+What is Water Quality?
+Water quality refers to the chemical, physical or biological media (like JELL-O) under special conditions (Ingerson and
+characteristics of water. Water quality is a measure of the Reid, 2011). Most E. coli do not cause illness but if a person
+condition of water relative to its’ impact on one or more becomes sick from E. coli, the primary site of infection is the
+aquatic species like fish and frogs or on human uses such gastrointestinal tract and symptoms can include nausea,
+as drinking and swimming. The most common standards vomiting, diarrhea, and fever. This bacterium lives and
+used to assess water quality relate to health of ecosystems, grows naturally in the gastrointestinal tract of humans and
+safety of human contact and drinking water. Water quality animals but if it gets in the wrong place in the body, for
+protection programs in Arizona are based on federal and example, the kidneys or blood, it can cause illness. According
+state law and are administered by the U.S. Environmental to Ingerson and Reid (2011), the infection may spread
+Protection Agency (EPA) or Arizona Department of within the body (to blood, liver, and nervous system). These
+Environmental Quality (ADEQ) to keep ecosystems and microorganisms are shed in fecal material, or feces, hence
+people safe. their spread is termed the “fecal-oral” route of transmission.
+Contaminated food and water are the most common ways
+What is E. coli? to be exposed to E. coli. There are specific types (also called
+“strains”) of E. coli that can cause disease and there are
+Escherichia coli (E. coli) are gram-negative bacteria and
+also harmless types. Some of the harmful types of E. coli
+are a type of fecal coliform bacteria commonly found in
+are classified into the following groups: Enterotoxigenic
+the intestines of animals and humans (Figure 1). E. coli
+(ETEC), Enteropathogenic (EPEC), Enterohemorragic
+are so small they can’t be seen without a microscope;
+(EHEC) and Enteroinvasive (EIEC). ETEC, EPEC and
+however, their growth can be seen as colonies on agar
+--- Page 2 ---
+Table 1. Harmful strains of E. coli
+Strains of E. coli Modes of Transmission Disease
+ETEC causes diarrhea without fever. It is common in infants and is
+Enterotoxigenic (ETEC) Food or water ingestion
+often the cause of travelers’ diarrhea
+Enteropathogenic Food or water ingestion, direct and EPEC causes watery, sometimes bloody diarrhea. It is a common
+(EPEC) indirect human contact cause of infantile diarrhea in underdeveloped countries.
+EHEC strains cause bloody diarrhea and can sometimes damage
+Enterohemorragic
+Food/ingestion, direct or indirect the kidneys and progress to the potentially fatal hemolytic uremic
+(EHEC)
+human contact syndrome (HUS). EHEC has caused many large food-borne outbreaks
+worldwide; O157:H7 is the best known strain.
+Enteroinvasive EIEC causes watery, dysentery like diarrhea. Fever is another com-
+Food and water ingestion
+(EIEC) mon symptom.
+EIEC are all generally transmitted through contaminated have pointed out that the rates of some serious health effects,
+food and water (Gerba et al., 2009 and Vieira et al., 2007). such as those mentioned above, are higher in swimmers
+Table 1 summarizes the harmful types of E. coli, mode of when compared to non-swimmers (Soller et al., 2010).
+transmission, and disease outcome. A more well-known
+The presence of E. coli may be indicative of contamination
+type or strain of E. coli is O157:H7 which is found under the
+with other bacteria, viruses or protozoa that can make you
+EHEC group and is commonly the cause of contaminated
+sick. Salmonella is a bacterium commonly implicated in
+foods such as spinach and meat but has also been implicated
+contaminated food and water. Salmonella can cause diseases
+in outbreaks where water was the source of contamination.
+such as typhoid fever from consumption of contaminated
+water and Salmonellosis from eating contaminated beef
+E. coli in Our Water
+and poultry. A person consuming contaminated food or
+The presence of E. coli in water is a strong indication water can experience nausea, vomiting, abdominal cramps,
+of recent sewage or animal waste contamination. It is diarrhea, and fever. Another common water-borne (spends
+important to note that E. coli and waste can get in our all or part of its life in water) pathogen, Cryptosporidium,
+water in many different ways. For example, during is a protozoan parasite affecting the gastrointestinal tract
+rainfall and snow melt, E. coli may be washed into creeks, of humans and animals and it is shed in the feces in the
+rivers, streams, lakes, or groundwater (Griffith et al., form of an oocyst. This oocyst consists of a hard outer
+2003, Roslev and Bukh, 2011) from the land surface. Other shell that protects it from degradation in the environment.
+ways consist of natural wildlife, failing septic systems, Cryptosporidium is highly resistant to chlorine commonly
+recreational activities and local land use practices (for used in drinking water treatment, and has been implicated
+example, manure used as fertilizers, livestock, concentrated in several waterborne disease outbreaks in the past. One
+feeding operations). Human and animal sources of fecal such outbreak took place in Milwaukee on April 1993,
+pollution represent a serious health risks because of the which infected over 400,000 people and killed more than
+high likelihood of the existence of pathogens also in the 100 (Gerba, 2009). Heavy rains flooded agricultural plains in
+fecal waste. A pathogen is a microorganism that can cause Wisconsin and produced substantial runoff into a river that
+disease and make someone sick. Cattle, swine, and chickens provided the City of Milwaukee with drinking water. The
+also carry pathogens that can be transmitted from animals drinking water treatment facility was not able to adequately
+to humans causing disease. Therefore introduction of treat or “kill” the high levels of Cryptosporidium in the water
+any animal or human waste in water is of high concern. due to their highly resistant outer shell. The Milwaukee
+outbreak is an example of the dangers protozoa can pose
+Numerous studies have been conducted around the
+in drinking water. To date, the Milwaukee outbreak is the
+world to assess the connection between water quality and
+largest outbreak to be documented in the United States.
+serious health effects to people who come into contact
+As demonstrated by the number of people infected in the
+with that water through recreation (swimming, wading,
+Milwaukee outbreak, consequences of consuming fecally
+fishing, etc.). Although not all E. coli bacteria are typically
+contaminated water may be severe in people with weakened
+pathogenic, extensive studies have demonstrated that E.
+immune systems (e.g., infants and the elderly) and sometimes
+coli concentrations are the best predictor of swimming-
+fatal in people with severely compromised immune systems.
+associated gastrointestinal illness (diarrhea). In addition to
+gastrointestinal illness (GI), illnesses such as eye infections, Because contaminated water poses such a large threat
+skin irritations, ear, nose, throat infections, and respiratory to human health, water managers and regulatory agencies
+illness are also common in people who have come into have designed tests to tell us our water is safe. We commonly
+contact with water contaminated with feces. Some studies use E. coli to indicate that fecal contamination is present in
+--- Page 3 ---
+water. Although, we do not want to find E. coli in our water, E. coli is currently the most reliable indicator of fecal
+these bacteria can be easily tested and quantified by simple bacterial contamination of surface waters in the U.S.
+methods. Detection of these bacteria in water means that according to water quality standards set by the EPA.
+fecal contamination has occurred and suggests that enteric EPA bacterial water quality standards are based on a
+pathogens, like the ones mentioned above, may be present. level of E. coli in water above which the health risk from
+This also means that humans and animals should not come waterborne illness is unacceptably high. Due to the many
+into contact with the contaminated water until the presence of associated health risks the presence of pathogens and other
+E. coli is no longer detected, and the water is considered safe. microorganisms can pose, regulators such as the US EPA
+and ADEQ have implemented ways to reduce contact with
+impaired waters by defining various water use categories.
+How do we make sure our water is safe?
+Two of these categories are partial-body contact (PBC) and
+Numerous government and state agencies as well as local
+full-body contact (FBC). According to the US EPA, partial-
+watershed groups test water quality to ensure it is safe or
+body contact refers to the human body coming in contact
+if there are potential problems with contamination. Water
+with surface water used for recreational activities, but not
+quality testing and data reporting in the past were based on
+to the point of full-body submergence (2009). Levels of E.
+bacterial groups called total and fecal coliforms. Coliforms
+coli cannot exceed 575 colony forming units (CFU) per 100
+can be found in the aquatic environment, in soil, and on
+mL of water for partial body contact (US EPA, 2009). The
+vegetation; they are universally present in large numbers
+term CFU refers to the number of living bacterial cells in
+in the feces of warm-blooded animals. While coliforms
+a water sample. Therefore, this measure is used to tell us
+themselves are not normally causes of serious illness, they
+the degree of contamination in samples of water or the
+are easy to culture and their presence is used to indicate that
+degree of the infection in humans and animals. For full-
+other pathogenic organisms of fecal origin may be present.
+body contact, E. coli levels cannot exceed 235 CFU per
+Today, water quality testing has evolved and is now based
+100 mL of water. Full-body contact refers to the human
+on the concentration of E. coli. E. coli is one of the types of
+body being completely underwater in activities such as
+bacteria within the fecal coliform group and is a predictor
+swimming or other recreational activity (US EPA, 2009).
+of fecal contamination. Water that is consumed for drinking
+water purposes is tested for the concentration, or level, of E.
+coli that is deemed safe for human consumption. Similarly, What can you do in your community to
+wastewater that has been treated and then recycled for protect water quality?
+irrigation purposes and/or discharged to surface waters
+Essential to human beings and ecosystems, water is
+must also meet certain levels of E. coli to be considered
+closely linked with human life. Numerous activities that
+safe. Rivers that are used for recreation, such as fishing and
+occur within your community can ultimately impact surface
+swimming, are required to meet certain levels of E. coli or
+water quality. Here are some ways you can help keep rivers,
+they can be deemed “impaired” (Rivera and Rock, 2011).
+lakes and streams safe for both people and ecosystems.
+Table 2 outlines the various acceptable levels/concentrations
+of E. coli of the different water uses mentioned above. The ▪ Learn about your local water body or watershed
+concentrations of E. coli used in regulation are based on ▪ Identify ways you can help prevent polluted runoff from
+assessment of the volume of water a person consumes your home, ranch, or farm
+during different practices and the likelihood the person
+▪ Pick up pet waste in and around your neighborhood
+would become sick after coming into contact with the
+▪ Keep domestic animals and/or livestock out of
+contaminated water. In circumstances where the contact or
+waterways (or reduce their exposure)
+ingestion of the water is high (swimming) the concentration
+▪ Properly maintain your septic system and have it
+of the E. coli that is deemed acceptable is lower. In situations
+inspected when appropriate
+where the contact with the water is low (irrigation) the
+levels of E. coli considered acceptable may be higher ▪ Join a local watershed group or volunteer organization
+because there is a lower risk of a person becoming sick. active in environmental issues in your community
+Table 2. Level of E. coli permitted for Different Types of Water (ADEQ, 2010 and EPA, 2009)
+Purpose Level of E. coli
+Drinking Water Zero
+Surface Water Full-Body Contact
+235 cfu/100 mL
+(swimming)
+Surface Water Partial-Body Contact
+575 cfu/100 mL
+(Fishing, boating, etc…)
+Wastewater < 2.2cfu/100 mL
+(irrigation or discharge) < 1.0 cfu/100 mL
+--- Page 4 ---
+▪ Volunteer during clean up events targeting pollution Soller, J.A, Schoen, M. E., Bartrand, T., Ravenscroft, J.E., and
+near surface waters Ashbolt, N. J. 2010 Estimated human health risks from
+exposure to recreational waters impacted by human and
+▪ Do not throw trash into rivers, lakes, and streams (while
+non- human sources of faecal contamination. Water
+the trash may not contain fecal matter or waste, it may
+Research 30: 1-18.
+attract wild or domestic animals which may introduce
+fecal contamination near water bodies and causing Vieira, N., Bates, S. J., Solberg, O. W., Ponce, K., Howsmon,
+pollution) R., Cevallos, W., Trueba, G., Riley, L. and Eisenberg, J. N.
+S. 2007 High Prevalence of Enteroinvasive Escherichia
+▪ When camping or hiking, properly dispose of waste and
+Coli Isolated in a Remote Region of Northern Coastal
+trash to reduce the attraction to animals
+Ecuador. Am J Trop Med Hyg 76(3): 528-533.
+Water is a very precious resource; by doing your part U. S. Environmental Protection Agency. 2008 Arizona 2008
+to protect our water sources we can ensure benefits Water Quality Assessment Report. [Online] http://
+to future generations and to the safety of its users. iaspub.epa.gov/waters10/attains_index.control?p_
+area=AZ#wqs.
+References: U.S. Environmental Protection Agency. 2009 Water Quality
+Standards [Online] http://www.epa.gov/waterscience/
+Arizona Department of Environmental Quality. 2010 Water
+standards/wqslibrary/az/az9wqs.pdf
+Quality. [Online] http://www.azdeq.gov/environ/
+water/index.html. U. S. Senate. 2002 Federal Water Pollution Control Act.
+[Online] http://www.epw.senate.gov/water.pdf.
+Francy, D. S., Myers, D. N., and Metzker K. D. 1993 Escherichia
+coli and fecal coliform bacteria as indicators of recreational
+water quality. U.S. Geological Survey. Water Resources
+Investigations Report 93-4083. Columbus, Ohio.
+Gerba, C. “Indicator Microorganisms.” Environmental
+Microbiology. 2nd Ed. Academic Press, San Diego, CA,
+2009. 485-499.
+Gerba, C. “Environmentally Transmitted Pathogens.”
+Environmental Microbiology. 2nd Ed. Academic Press, AND LIFE SCIENCES
+Griffith, J. F., Weisberg, S. B., and McGee C. D. 2003 Evaluation
+TUCson, ArizonA 85721
+Hathaway, J. M. and Hunt, W. F. 2008 URBAN Waterways:
+Removal of Pathogens in Stormwater. North Carolina ChAnnAh roCk
+Ingerson, M. M. and Reid, A. 2011 E. coli: Good, Bad, & Deadly. Berenise riverA
+PhD candidate, SWES Department
+American Academy of Microbiology. pg. 1-14.
+Rivera, B. and Rock, C. 2011 Microbial Source Tracking: ConTACT:
+Watershed Characterization and Source Identification.
+ChAnnAh roCk
+channah@ag.arizona.edu
+Roslev, P., and Bukh, A. S. 2011 State of the Art Molecular This information has been reviewed by University faculty.
+cals.arizona.edu/pubs/water/az1624.pdf
+Markers for Fecal Pollution Source Tracking in Water.
+cals.arizona.edu/pubs
+Any products, services or organizations that are mentioned, shown or indirectly implied in this publication
+sex, national origin, age, disability, veteran status, or sexual orientation in its programs and activities.

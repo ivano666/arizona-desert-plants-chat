@@ -1,0 +1,23 @@
+[project]
+name = "arizona-desert-plants-chat"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "fastembed>=0.7.3",
+    "openai>=2.5.0",
+    "pandas>=2.3.3",
+    "pdfplumber>=0.11.7",
+    "pypdf2>=3.0.1",
+    "qdrant-client[fastembed]>=1.14.2",
+    "requests>=2.32.5",
+    "sentence-transformers>=5.1.1",
+    "tqdm>=4.67.1",
+]
+
+[dependency-groups]
+dev = [
+    "jupyter>=1.1.1",
+]

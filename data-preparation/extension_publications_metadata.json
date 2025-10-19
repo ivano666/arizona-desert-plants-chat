@@ -1,0 +1,114 @@
+[
+  {
+    "pdf_filename": "az1713-2016.pdf",
+    "txt_filename": "az1713-2016.txt",
+    "source_url": null,
+    "text_length": 10764,
+    "pages": 5,
+    "extraction_method": "pdfplumber"
+  },
+  {
+    "pdf_filename": "Ocotillo.pdf",
+    "txt_filename": "Ocotillo.txt",
+    "source_url": null,
+    "text_length": 4583,
+    "pages": 2,
+    "extraction_method": "pdfplumber"
+  },
+  {
+    "pdf_filename": "az1429.pdf",
+    "txt_filename": "az1429.txt",
+    "source_url": null,
+    "text_length": 30273,
+    "pages": 10,
+    "extraction_method": "pdfplumber"
+  },
+  {
+    "pdf_filename": "az1800-2019.pdf",
+    "txt_filename": "az1800-2019.txt",
+    "source_url": null,
+    "text_length": 15375,
+    "pages": 7,
+    "extraction_method": "pdfplumber"
+  },
+  {
+    "pdf_filename": "az1048.pdf",
+    "txt_filename": "az1048.txt",
+    "source_url": null,
+    "text_length": 67444,
+    "pages": 11,
+    "extraction_method": "pypdf2"
+  },
+  {
+    "pdf_filename": "az1110.pdf",
+    "txt_filename": "az1110.txt",
+    "source_url": null,
+    "text_length": 33397,
+    "pages": 14,
+    "extraction_method": "pdfplumber"
+  },
+  {
+    "pdf_filename": "Wildflowers.pdf",
+    "txt_filename": "Wildflowers.txt",
+    "source_url": null,
+    "text_length": 5331,
+    "pages": 2,
+    "extraction_method": "pdfplumber"
+  },
+  {
+    "pdf_filename": "nopal_final_English.pdf",
+    "txt_filename": "nopal_final_English.txt",
+    "source_url": null,
+    "text_length": 4507,
+    "pages": 2,
+    "extraction_method": "pdfplumber"
+  },
+  {
+    "pdf_filename": "az1455.pdf",
+    "txt_filename": "az1455.txt",
+    "source_url": null,
+    "text_length": 12470,
+    "pages": 4,
+    "extraction_method": "pdfplumber"
+  },
+  {
+    "pdf_filename": "az1100a.pdf",
+    "txt_filename": "az1100a.txt",
+    "source_url": null,
+    "text_length": 192325,
+    "pages": 15,
+    "extraction_method": "pdfplumber"
+  },
+  {
+    "pdf_filename": "az2021-2023.pdf",
+    "txt_filename": "az2021-2023.txt",
+    "source_url": null,
+    "text_length": 58086,
+    "pages": 14,
+    "extraction_method": "pdfplumber"
+  },
+  {
+    "pdf_filename": "az1021.pdf",
+    "txt_filename": "az1021.txt",
+    "source_url": null,
+    "text_length": 40601,
+    "pages": 16,
+    "extraction_method": "pdfplumber"
+  },
+  {
+    "pdf_filename": "az1022.pdf",
+    "txt_filename": "az1022.txt",
+    "source_url": null,
+    "text_length": 10249,
+    "pages": 3,
+    "extraction_method": "pdfplumber"
+  },
+  {
+    "pdf_filename": "az1624.pdf",
+    "txt_filename": "az1624.txt",
+    "source_url": null,
+    "text_length": 16061,
+    "pages": 4,
+    "extraction_method": "pdfplumber"
+  }
+]
