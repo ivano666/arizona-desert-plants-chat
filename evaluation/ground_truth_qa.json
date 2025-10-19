@@ -1,0 +1,1052 @@
+[
+  {
+    "question": "What are the common names for Opuntia macrorhiza?",
+    "ground_truth_answer": "The common names for Opuntia macrorhiza include plains prickly pear, twistspine pricklypear, and Western pricklypear. This cactus species is prevalent across the Great Plains and various regions in the United States and northern Mexico.",
+    "source_doc_id": "species_165891",
+    "source_doc_title": "prairie pricklypear (Opuntia macrorhiza)",
+    "document_type": "species"
+  },
+  {
+    "question": "In which regions of the United States can prairie pricklypear be found?",
+    "ground_truth_answer": "Prairie pricklypear (*Opuntia macrorhiza*) can be found throughout the Great Plains of the United States, ranging from Texas to Minnesota. Additionally, it is present in the desert and Rocky Mountain states, including Arizona and Idaho, as well as sporadically in the Mississippi and Ohio Valleys.",
+    "source_doc_id": "species_165891",
+    "source_doc_title": "prairie pricklypear (Opuntia macrorhiza)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of Opuntia macrorhiza have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 9,617 observations of Opuntia macrorhiza recorded in Arizona. This indicates a significant presence of the species in the state, contributing to its widespread distribution across various regions.",
+    "source_doc_id": "species_165891",
+    "source_doc_title": "prairie pricklypear (Opuntia macrorhiza)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does the Christmas cholla (Cylindropuntia leptocaulis) belong to?",
+    "ground_truth_answer": "The Christmas cholla, scientifically known as Cylindropuntia leptocaulis, belongs to the family Cactaceae. This family includes various species of cacti, characterized by their unique adaptations to arid environments.",
+    "source_doc_id": "species_202757",
+    "source_doc_title": "Christmas cholla (Cylindropuntia leptocaulis)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of the Christmas cholla have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 20,642 observations of the Christmas cholla, scientifically known as Cylindropuntia leptocaulis, recorded in Arizona. This indicates a significant presence of the species in the region.",
+    "source_doc_id": "species_202757",
+    "source_doc_title": "Christmas cholla (Cylindropuntia leptocaulis)",
+    "document_type": "species"
+  },
+  {
+    "question": "What is another common name for Cylindropuntia leptocaulis?",
+    "ground_truth_answer": "Another common name for Cylindropuntia leptocaulis is the desert Christmas cactus. It is also referred to as tasajillo.",
+    "source_doc_id": "species_202757",
+    "source_doc_title": "Christmas cholla (Cylindropuntia leptocaulis)",
+    "document_type": "species"
+  },
+  {
+    "question": "What is the common name of Cylindropuntia tunicata?",
+    "ground_truth_answer": "The common name of Cylindropuntia tunicata is sheathed cholla. This cactus is native to the Chihuahuan Desert of North America and parts of South America.",
+    "source_doc_id": "species_274441",
+    "source_doc_title": "Thistle Cholla (Cylindropuntia tunicata)",
+    "document_type": "species"
+  },
+  {
+    "question": "In which desert is Thistle Cholla native?",
+    "ground_truth_answer": "Thistle Cholla, or Cylindropuntia tunicata, is native to the Chihuahuan Desert of North America. It can also be found in parts of South America.",
+    "source_doc_id": "species_274441",
+    "source_doc_title": "Thistle Cholla (Cylindropuntia tunicata)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of Thistle Cholla have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 1,631 observations of Thistle Cholla (Cylindropuntia tunicata) recorded in Arizona. This species is native to the Chihuahuan Desert of North America and parts of South America.",
+    "source_doc_id": "species_274441",
+    "source_doc_title": "Thistle Cholla (Cylindropuntia tunicata)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does the tree yucca (Yucca filifera) belong to?",
+    "ground_truth_answer": "The tree yucca, scientifically known as Yucca filifera, belongs to the family Asparagaceae. This family includes various plants, and Yucca filifera is specifically a member of the subfamily Agavaceae.",
+    "source_doc_id": "species_290831",
+    "source_doc_title": "tree yucca (Yucca filifera)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is the tree yucca native to Arizona or another region?",
+    "ground_truth_answer": "The tree yucca, or Yucca filifera, is native to central Mexico. Although there are 3,545 observations recorded in Arizona, it is not native to that region.",
+    "source_doc_id": "species_290831",
+    "source_doc_title": "tree yucca (Yucca filifera)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of tree yucca have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 3,545 observations of tree yucca (*Yucca filifera*) recorded in Arizona. This species is native to central Mexico and belongs to the Asparagaceae family.",
+    "source_doc_id": "species_290831",
+    "source_doc_title": "tree yucca (Yucca filifera)",
+    "document_type": "species"
+  },
+  {
+    "question": "What is the common name of Opuntia tomentosa?",
+    "ground_truth_answer": "The common name of Opuntia tomentosa is woollyjoint pricklypear or velvety tree pear. This species is part of the Cactaceae family and is primarily found in Mexico, with a notable presence in Arizona where 5,334 observations have been recorded.",
+    "source_doc_id": "species_165906",
+    "source_doc_title": "Woollyjoint Pricklypear (Opuntia tomentosa)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of woollyjoint pricklypear have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 5,334 observations of woollyjoint pricklypear (Opuntia tomentosa) recorded in Arizona. This species is commonly found in Mexico and is part of the Cactaceae family.",
+    "source_doc_id": "species_165906",
+    "source_doc_title": "Woollyjoint Pricklypear (Opuntia tomentosa)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is Opuntia tomentosa suitable for gardening in Arizona's climate?",
+    "ground_truth_answer": "Yes, Opuntia tomentosa, or woollyjoint pricklypear, is suitable for gardening in Arizona's climate, as it is a species native to the region. Its presence is evidenced by 5,334 observations recorded in Arizona, indicating that it thrives in local conditions.",
+    "source_doc_id": "species_165906",
+    "source_doc_title": "Woollyjoint Pricklypear (Opuntia tomentosa)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does the Dune Wattle (Acacia ligulata) belong to?",
+    "ground_truth_answer": "The Dune Wattle, scientifically known as Acacia ligulata, belongs to the family Fabaceae. This family is commonly known as the legume, pea, or bean family, which includes a variety of flowering plants.",
+    "source_doc_id": "species_243733",
+    "source_doc_title": "Dune Wattle (Acacia ligulata)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is the Dune Wattle a rare plant species in Arizona?",
+    "ground_truth_answer": "No, the Dune Wattle (Acacia ligulata) is not considered a rare plant species in Arizona. It is a dense shrub that is widespread in all states of mainland Australia and has 980 observations recorded in Arizona, indicating it is relatively common in that region.",
+    "source_doc_id": "species_243733",
+    "source_doc_title": "Dune Wattle (Acacia ligulata)",
+    "document_type": "species"
+  },
+  {
+    "question": "How can I identify Acacia ligulata in the wild?",
+    "ground_truth_answer": "To identify Acacia ligulata in the wild, look for a dense shrub that is widespread across mainland Australia. It typically features characteristic Acacia foliage and may be found in various habitats, as it is not rare or endangered.",
+    "source_doc_id": "species_243733",
+    "source_doc_title": "Dune Wattle (Acacia ligulata)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does the foxglove beardtongue belong to?",
+    "ground_truth_answer": "The foxglove beardtongue, scientifically known as Penstemon digitalis, belongs to the family Plantaginaceae. This family includes a variety of flowering plants, and the foxglove beardtongue is noted for its white flowers that bloom in summer.",
+    "source_doc_id": "species_81942",
+    "source_doc_title": "foxglove beardtongue (Penstemon digitalis)",
+    "document_type": "species"
+  },
+  {
+    "question": "During which season does the foxglove beardtongue produce flowers?",
+    "ground_truth_answer": "The foxglove beardtongue (Penstemon digitalis) produces flowers in the summer. This flowering period is characteristic of the plant, which is native to eastern Canada and parts of the United States.",
+    "source_doc_id": "species_81942",
+    "source_doc_title": "foxglove beardtongue (Penstemon digitalis)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is Penstemon digitalis suitable for Arizona gardens given its native regions?",
+    "ground_truth_answer": "Penstemon digitalis is native to eastern Canada and eastern and southeastern United States, which suggests it may not be ideally suited for Arizona's climate and conditions. However, with 30,219 observations recorded in Arizona, it indicates that the plant can adapt and thrive in certain areas of the state. Therefore, while it may not be native to Arizona, it could still be suitable for gardens in specific regions of the state.",
+    "source_doc_id": "species_81942",
+    "source_doc_title": "foxglove beardtongue (Penstemon digitalis)",
+    "document_type": "species"
+  },
+  {
+    "question": "What type of environment does mountain yucca (Yucca madrensis) thrive in?",
+    "ground_truth_answer": "Mountain yucca (Yucca madrensis) thrives in steep, rocky slopes within pine-oak forests. It is native to mountainous regions in the Sierra Madre Occidental, specifically in the Mexican states of Sonora and Chihuahua, and has also been observed in Arizona.",
+    "source_doc_id": "species_290852",
+    "source_doc_title": "mountain yucca (Yucca madrensis)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is mountain yucca native to Arizona, and where else can it be found?",
+    "ground_truth_answer": "Yes, mountain yucca (*Yucca madrensis*) is native to Arizona, as well as to the mountainous regions of the Sierra Madre Occidental in the Mexican states of Sonora and Chihuahua. It typically grows on steep, rocky slopes in pine-oak forests.",
+    "source_doc_id": "species_290852",
+    "source_doc_title": "mountain yucca (Yucca madrensis)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family and genus does the mountain yucca (Yucca madrensis) belong to?",
+    "ground_truth_answer": "The mountain yucca, scientifically known as Yucca madrensis, belongs to the family Asparagaceae and the genus Yucca. This plant is native to mountainous regions in the Sierra Madre Occidental in Mexico and has also been observed in Arizona.",
+    "source_doc_id": "species_290852",
+    "source_doc_title": "mountain yucca (Yucca madrensis)",
+    "document_type": "species"
+  },
+  {
+    "question": "What is the scientific name of the narrowleaf yucca?",
+    "ground_truth_answer": "The scientific name of the narrowleaf yucca is *Yucca angustissima*. It belongs to the family Asparagaceae and is known for its narrow leaves.",
+    "source_doc_id": "species_81962",
+    "source_doc_title": "Narrowleaf Yucca (Yucca angustissima)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is the narrowleaf yucca native to regions outside of Arizona?",
+    "ground_truth_answer": "Yes, the narrowleaf yucca (Yucca angustissima) is native to regions outside of Arizona, specifically in New Mexico, Colorado, and Utah. It is also grown in other areas as an ornamental plant.",
+    "source_doc_id": "species_81962",
+    "source_doc_title": "Narrowleaf Yucca (Yucca angustissima)",
+    "document_type": "species"
+  },
+  {
+    "question": "Can the narrowleaf yucca be grown as an ornamental plant in areas other than its native habitat?",
+    "ground_truth_answer": "Yes, the narrowleaf yucca (Yucca angustissima) can be grown as an ornamental plant in areas outside its native habitat. While it is native to Arizona, New Mexico, Colorado, and Utah, it is cultivated in other regions for decorative purposes.",
+    "source_doc_id": "species_81962",
+    "source_doc_title": "Narrowleaf Yucca (Yucca angustissima)",
+    "document_type": "species"
+  },
+  {
+    "question": "What is the maximum height of the Seashore Lupine (Lupinus littoralis)?",
+    "ground_truth_answer": "The maximum height of the Seashore Lupine (Lupinus littoralis) is no more than 30 centimetres (12 inches) tall. This species typically grows in a clump or mat form.",
+    "source_doc_id": "species_77872",
+    "source_doc_title": "Seashore Lupine (Lupinus littoralis)",
+    "document_type": "species"
+  },
+  {
+    "question": "What type of habitat does Lupinus littoralis prefer for growth?",
+    "ground_truth_answer": "Lupinus littoralis, commonly known as seashore lupine, prefers sandy habitats along the coastline. It is native to western North America, specifically from British Columbia to northern California, where it thrives in these sandy environments.",
+    "source_doc_id": "species_77872",
+    "source_doc_title": "Seashore Lupine (Lupinus littoralis)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is the Seashore Lupine suitable for gardening in Arizona's sandy soils?",
+    "ground_truth_answer": "The Seashore Lupine (Lupinus littoralis) is native to sandy habitats along the coastline of western North America, which suggests it may be well-suited for gardening in Arizona's sandy soils. However, its specific adaptability to Arizona's climate and conditions would need further investigation, as the document does not provide detailed information on its performance outside its native range.",
+    "source_doc_id": "species_77872",
+    "source_doc_title": "Seashore Lupine (Lupinus littoralis)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does the Cootamundra wattle (Acacia baileyana) belong to?",
+    "ground_truth_answer": "The Cootamundra wattle, scientifically known as Acacia baileyana, belongs to the family Fabaceae. This family is commonly known as the legume, pea, or bean family, which includes a wide variety of flowering plants.",
+    "source_doc_id": "species_55345",
+    "source_doc_title": "Cootamundra wattle (Acacia baileyana)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is Cootamundra wattle suitable for planting in Arizona gardens?",
+    "ground_truth_answer": "Cootamundra wattle (Acacia baileyana) has been widely planted in various regions, including Arizona, as indicated by the 6223 observations recorded there. However, it is important to note that in some areas, such as Victoria, it has become naturalised and is considered a weed, potentially outcompeting local species. Therefore, while it may be suitable for planting, caution should be exercised regarding its impact on local ecosystems.",
+    "source_doc_id": "species_55345",
+    "source_doc_title": "Cootamundra wattle (Acacia baileyana)",
+    "document_type": "species"
+  },
+  {
+    "question": "How does Acacia baileyana compete with indigenous species in areas where it becomes naturalised?",
+    "ground_truth_answer": "Acacia baileyana, or Cootamundra wattle, competes with indigenous species by outcompeting them for resources such as light, water, and nutrients. Its ability to thrive in various environments allows it to establish dominance, leading to the decline of native flora in areas where it has become naturalised, particularly in Victoria, Australia.",
+    "source_doc_id": "species_55345",
+    "source_doc_title": "Cootamundra wattle (Acacia baileyana)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does the beaked yucca (Yucca rostrata) belong to?",
+    "ground_truth_answer": "The beaked yucca (Yucca rostrata) belongs to the family Asparagaceae. This family includes various species of flowering plants, and Yucca rostrata is a tree-like plant within this genus.",
+    "source_doc_id": "species_290877",
+    "source_doc_title": "Beaked Yucca (Yucca rostrata)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is Yucca rostrata native to Arizona?",
+    "ground_truth_answer": "No, Yucca rostrata is not native to Arizona; it is native to Texas, Chihuahua, and Coahuila. The mention of \"861 observations recorded in Arizona\" indicates that the plant may be found there, but it does not imply that it is native to the state.",
+    "source_doc_id": "species_290877",
+    "source_doc_title": "Beaked Yucca (Yucca rostrata)",
+    "document_type": "species"
+  },
+  {
+    "question": "How can I identify beaked yucca among other Yucca species?",
+    "ground_truth_answer": "Beaked yucca (Yucca rostrata) can be identified by its tree-like structure and distinctive beaked flower clusters. It is native to regions in Texas, Chihuahua, and Coahuila and has been observed in Arizona, which may help in distinguishing it from other Yucca species found in similar habitats.",
+    "source_doc_id": "species_290877",
+    "source_doc_title": "Beaked Yucca (Yucca rostrata)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does the Indian mesquite (Prosopis cineraria) belong to?",
+    "ground_truth_answer": "The Indian mesquite, scientifically known as Prosopis cineraria, belongs to the Fabaceae family. This family is commonly known as the pea family, which includes a variety of flowering plants.",
+    "source_doc_id": "species_131133",
+    "source_doc_title": "Indian mesquite (Prosopis cineraria)",
+    "document_type": "species"
+  },
+  {
+    "question": "In which regions is Prosopis cineraria native?",
+    "ground_truth_answer": "Prosopis cineraria is native to arid regions of Western Asia and the Indian Subcontinent, specifically including Afghanistan, Iran, India, Oman, Pakistan, Saudi Arabia, the United Arab Emirates, and Yemen.",
+    "source_doc_id": "species_131133",
+    "source_doc_title": "Indian mesquite (Prosopis cineraria)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of Indian mesquite have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 1,263 observations of Indian mesquite (Prosopis cineraria) recorded in Arizona. This species is native to arid regions of Western Asia and the Indian Subcontinent but has also established itself in other areas, including Arizona.",
+    "source_doc_id": "species_131133",
+    "source_doc_title": "Indian mesquite (Prosopis cineraria)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does the Desert five-spot (Eremalche rotundifolia) belong to?",
+    "ground_truth_answer": "The Desert five-spot, scientifically known as Eremalche rotundifolia, belongs to the family Malvaceae. This flowering plant is native to the Mojave Desert and Colorado Desert in the Southwestern United States.",
+    "source_doc_id": "species_59454",
+    "source_doc_title": "desert fivespot (Eremalche rotundifolia)",
+    "document_type": "species"
+  },
+  {
+    "question": "In which deserts is Eremalche rotundifolia native?",
+    "ground_truth_answer": "Eremalche rotundifolia, commonly known as the Desert five-spot, is native to the Mojave Desert and the Colorado Desert in the Southwestern United States. These regions provide the natural habitat for this flowering plant in the Malvaceae family.",
+    "source_doc_id": "species_59454",
+    "source_doc_title": "desert fivespot (Eremalche rotundifolia)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of Desert five-spot have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 2,993 observations of the Desert five-spot (Eremalche rotundifolia) recorded in Arizona. This flowering plant is native to the Mojave Desert and Colorado Desert in the Southwestern United States.",
+    "source_doc_id": "species_59454",
+    "source_doc_title": "desert fivespot (Eremalche rotundifolia)",
+    "document_type": "species"
+  },
+  {
+    "question": "What is the scientific classification of Tequila Agave?",
+    "ground_truth_answer": "The scientific classification of Tequila Agave, or Agave tequilana, is as follows: it belongs to the family Asparagaceae and the genus Agave. This plant is primarily recognized for its economic significance in producing tequila in Jalisco, Mexico.",
+    "source_doc_id": "species_290889",
+    "source_doc_title": "Tequila Agave (Agave tequilana)",
+    "document_type": "species"
+  },
+  {
+    "question": "How does the sugar content in Agave tequilana affect its use in alcohol production?",
+    "ground_truth_answer": "The high production of sugars, primarily fructose, in the core of Agave tequilana makes it particularly suitable for the preparation of alcoholic beverages like tequila. This sugar content is essential for fermentation, as it is converted into alcohol during the distillation process, thereby contributing to the production of tequila.",
+    "source_doc_id": "species_290889",
+    "source_doc_title": "Tequila Agave (Agave tequilana)",
+    "document_type": "species"
+  },
+  {
+    "question": "Can Agave tequilana be successfully grown in Arizona's climate?",
+    "ground_truth_answer": "Yes, Agave tequilana can be successfully grown in Arizona's climate, as evidenced by 3,097 observations recorded in the state. The plant's adaptability to arid conditions and its economic significance in producing tequila suggest it thrives in similar environments.",
+    "source_doc_id": "species_290889",
+    "source_doc_title": "Tequila Agave (Agave tequilana)",
+    "document_type": "species"
+  },
+  {
+    "question": "What is the common name of the plant species Yucca valida?",
+    "ground_truth_answer": "The common name of the plant species Yucca valida is datilillo. This plant is native to several Mexican states, including Baja California, Baja California Sur, Sonora, and Sinaloa.",
+    "source_doc_id": "species_290893",
+    "source_doc_title": "datilillo yucca (Yucca valida)",
+    "document_type": "species"
+  },
+  {
+    "question": "In which regions of Mexico is the datilillo yucca native?",
+    "ground_truth_answer": "The datilillo yucca, or Yucca valida, is native to the Mexican states of Baja California, Baja California Sur, Sonora, and Sinaloa. These regions are located in the northwestern part of Mexico.",
+    "source_doc_id": "species_290893",
+    "source_doc_title": "datilillo yucca (Yucca valida)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of datilillo yucca have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 753 observations of datilillo yucca (Yucca valida) recorded in Arizona. This indicates a significant presence of the species in that region.",
+    "source_doc_id": "species_290893",
+    "source_doc_title": "datilillo yucca (Yucca valida)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does Needle Grama (Bouteloua aristidoides) belong to?",
+    "ground_truth_answer": "Needle Grama, scientifically known as Bouteloua aristidoides, belongs to the family Poaceae. This family is commonly known as the grass family, which includes a wide variety of grasses found in different habitats.",
+    "source_doc_id": "species_75856",
+    "source_doc_title": "Needle Grama (Bouteloua aristidoides)",
+    "document_type": "species"
+  },
+  {
+    "question": "In which regions of North America is Needle Grama typically found?",
+    "ground_truth_answer": "Needle Grama, or Bouteloua aristidoides, is typically found in California and western North America. It is an annual desert grass that thrives in these regions.",
+    "source_doc_id": "species_75856",
+    "source_doc_title": "Needle Grama (Bouteloua aristidoides)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of Needle Grama have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 1,051 observations of Needle Grama (Bouteloua aristidoides) recorded in Arizona. This indicates a significant presence of the species in that region.",
+    "source_doc_id": "species_75856",
+    "source_doc_title": "Needle Grama (Bouteloua aristidoides)",
+    "document_type": "species"
+  },
+  {
+    "question": "What is the common name of Bouteloua barbata?",
+    "ground_truth_answer": "The common name of Bouteloua barbata is six-weeks grama. This species of grass is native to North America, specifically found in the southwestern United States and extending to Oaxaca in southern Mexico.",
+    "source_doc_id": "species_75857",
+    "source_doc_title": "Sixweeks Grama (Bouteloua barbata)",
+    "document_type": "species"
+  },
+  {
+    "question": "Where is six-weeks grama native to?",
+    "ground_truth_answer": "Six-weeks grama, or Bouteloua barbata, is native to North America, specifically in the southwestern United States and extending south to Oaxaca in southern Mexico. It may also occur in Montana and is present in Argentina.",
+    "source_doc_id": "species_75857",
+    "source_doc_title": "Sixweeks Grama (Bouteloua barbata)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of six-weeks grama have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 1,668 observations of six-weeks grama (Bouteloua barbata) recorded in Arizona. This indicates a significant presence of the species in that region.",
+    "source_doc_id": "species_75857",
+    "source_doc_title": "Sixweeks Grama (Bouteloua barbata)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does Sideoats Grama belong to?",
+    "ground_truth_answer": "Sideoats Grama, scientifically known as Bouteloua curtipendula, belongs to the family Poaceae. This family is commonly referred to as the grass family, which includes a wide variety of grasses found in different habitats.",
+    "source_doc_id": "species_75858",
+    "source_doc_title": "Sideoats Grama (Bouteloua curtipendula)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is Sideoats Grama suitable for planting in Arizona gardens?",
+    "ground_truth_answer": "Yes, Sideoats Grama (Bouteloua curtipendula) is suitable for planting in Arizona gardens, as it is a native grass to the region. Its adaptability to the temperate and tropical climates of the Western Hemisphere, along with its recorded observations in Arizona, indicates that it can thrive in local conditions.",
+    "source_doc_id": "species_75858",
+    "source_doc_title": "Sideoats Grama (Bouteloua curtipendula)",
+    "document_type": "species"
+  },
+  {
+    "question": "What is the native range of Bouteloua curtipendula?",
+    "ground_truth_answer": "Bouteloua curtipendula, or sideoats grama, is native throughout the temperate and tropical Western Hemisphere. Its range extends from Canada in the north to Argentina in the south.",
+    "source_doc_id": "species_75858",
+    "source_doc_title": "Sideoats Grama (Bouteloua curtipendula)",
+    "document_type": "species"
+  },
+  {
+    "question": "What is the main means of reproduction for Black Grama (Bouteloua eriopoda)?",
+    "ground_truth_answer": "The main means of reproduction for Black Grama (Bouteloua eriopoda) is by stolons. This grass has a naturally low ratio of viable seeds to sterile ones, which contributes to its limited seed reproduction.",
+    "source_doc_id": "species_75859",
+    "source_doc_title": "Black Grama (Bouteloua eriopoda)",
+    "document_type": "species"
+  },
+  {
+    "question": "How does Black Grama's tolerance to overgrazing compare to other grasses?",
+    "ground_truth_answer": "Black Grama (Bouteloua eriopoda) has a lower tolerance to overgrazing compared to other grasses. This reduced tolerance may be attributed to its low ratio of viable seeds to sterile ones, which affects its ability to reproduce and recover from grazing pressure.",
+    "source_doc_id": "species_75859",
+    "source_doc_title": "Black Grama (Bouteloua eriopoda)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is Black Grama a suitable choice for livestock forage in a garden setting?",
+    "ground_truth_answer": "Yes, Black Grama (Bouteloua eriopoda) is considered a good forage food for livestock, making it a suitable choice for livestock forage in a garden setting. However, its low tolerance to overgrazing should be taken into account to ensure sustainable growth and availability.",
+    "source_doc_id": "species_75859",
+    "source_doc_title": "Black Grama (Bouteloua eriopoda)",
+    "document_type": "species"
+  },
+  {
+    "question": "What type of environment does Red Grama (Bouteloua trifida) thrive in?",
+    "ground_truth_answer": "Red Grama (Bouteloua trifida) thrives in desert scrub and other dry areas. It is native to regions with arid conditions, specifically in central and northern Mexico and the Southwestern United States.",
+    "source_doc_id": "species_75861",
+    "source_doc_title": "Red Grama (Bouteloua trifida)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is Red Grama suitable for planting in Arizona's desert scrub areas?",
+    "ground_truth_answer": "Yes, Red Grama (Bouteloua trifida) is suitable for planting in Arizona's desert scrub areas, as it is native to the region and thrives in dry environments. Its adaptation to the local climate and soil conditions makes it a viable choice for such landscapes.",
+    "source_doc_id": "species_75861",
+    "source_doc_title": "Red Grama (Bouteloua trifida)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of Red Grama have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 539 observations of Red Grama, or Bouteloua trifida, recorded in Arizona. This species is native to the region and typically grows in desert scrub and other dry areas.",
+    "source_doc_id": "species_75861",
+    "source_doc_title": "Red Grama (Bouteloua trifida)",
+    "document_type": "species"
+  },
+  {
+    "question": "What is the conservation status of Adam's tree (Fouquieria diguetii)?",
+    "ground_truth_answer": "The conservation status of Adam's tree (Fouquieria diguetii) is classified as Vulnerable (VU). This indicates that the species may be facing a risk of extinction in the wild due to various factors affecting its habitat and population.",
+    "source_doc_id": "species_211038",
+    "source_doc_title": "Adam's tree (Fouquieria diguetii)",
+    "document_type": "species"
+  },
+  {
+    "question": "How can I identify Adam's tree by its flowers?",
+    "ground_truth_answer": "You can identify Adam's tree (Fouquieria diguetii) by its bright red, tubular flowers, which are a distinctive feature of the plant. The flowers are arranged in conical, paniculate inflorescences, making them visually striking and easily recognizable.",
+    "source_doc_id": "species_211038",
+    "source_doc_title": "Adam's tree (Fouquieria diguetii)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is Adam's tree suitable for planting in Arizona gardens, considering its native habitat?",
+    "ground_truth_answer": "Yes, Adam's tree (Fouquieria diguetii) is suitable for planting in Arizona gardens, as it has been observed in the state with 2,529 recorded observations. Its native habitat in the southern Baja California Peninsula and nearby regions suggests it can thrive in similar climates found in Arizona.",
+    "source_doc_id": "species_211038",
+    "source_doc_title": "Adam's tree (Fouquieria diguetii)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does the Horse Crippler Cactus belong to?",
+    "ground_truth_answer": "The Horse Crippler Cactus, scientifically known as Homalocephala texensis, belongs to the family Cactaceae. This family includes various species of cacti, and the Horse Crippler is specifically part of the subfamily Cactoideae.",
+    "source_doc_id": "species_870496",
+    "source_doc_title": "Horse Crippler Cactus (Homalocephala texensis)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is the Horse Crippler Cactus endemic to any specific regions?",
+    "ground_truth_answer": "Yes, the Horse Crippler Cactus (*Homalocephala texensis*) is endemic to the United States and Mexico. This means it is native to these specific regions and not naturally found elsewhere.",
+    "source_doc_id": "species_870496",
+    "source_doc_title": "Horse Crippler Cactus (Homalocephala texensis)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of the Horse Crippler Cactus have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 4,959 observations of the Horse Crippler Cactus (Echinocactus texensis) recorded in Arizona. This indicates a significant presence of the species in that region.",
+    "source_doc_id": "species_870496",
+    "source_doc_title": "Horse Crippler Cactus (Homalocephala texensis)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does the Cottontop Cactus belong to?",
+    "ground_truth_answer": "The Cottontop Cactus, scientifically known as Homalocephala polycephala, belongs to the family Cactaceae. This family is characterized by its members being succulents, typically adapted to arid environments.",
+    "source_doc_id": "species_870498",
+    "source_doc_title": "Cottontop Cactus (Homalocephala polycephala)",
+    "document_type": "species"
+  },
+  {
+    "question": "In which desert regions can the Homalocephala polycephala be found?",
+    "ground_truth_answer": "Homalocephala polycephala, commonly known as the Cottontop Cactus, can be found in the Mojave Desert region of Arizona, California, and Nevada. Additionally, it occurs in the Sonoran Desert region of southern California and northern Sonora, Mexico.",
+    "source_doc_id": "species_870498",
+    "source_doc_title": "Cottontop Cactus (Homalocephala polycephala)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of the Cottontop Cactus have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 7,465 observations of the Cottontop Cactus (Echinocactus polycephalus) recorded in Arizona. This species is found primarily in the Mojave Desert region of the state.",
+    "source_doc_id": "species_870498",
+    "source_doc_title": "Cottontop Cactus (Homalocephala polycephala)",
+    "document_type": "species"
+  },
+  {
+    "question": "What is the common name for Acacia melanoxylon?",
+    "ground_truth_answer": "The common name for Acacia melanoxylon is the Australian blackwood. It is also referred to by several other names, including Sally wattle, lightwood, hickory, mudgerabah, Tasmanian blackwood, black wattle, and blackwood acacia.",
+    "source_doc_id": "species_53344",
+    "source_doc_title": "blackwood (Acacia melanoxylon)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of blackwood (Acacia melanoxylon) have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 24,120 observations of blackwood (Acacia melanoxylon) recorded in Arizona. This species, native to eastern Australia, is commonly referred to by several names, including Australian blackwood and Tasmanian blackwood.",
+    "source_doc_id": "species_53344",
+    "source_doc_title": "blackwood (Acacia melanoxylon)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does the blackwood (Acacia melanoxylon) belong to?",
+    "ground_truth_answer": "The blackwood (Acacia melanoxylon) belongs to the family Fabaceae. This family is commonly known as the legume, pea, or bean family, which includes a variety of flowering plants.",
+    "source_doc_id": "species_53344",
+    "source_doc_title": "blackwood (Acacia melanoxylon)",
+    "document_type": "species"
+  },
+  {
+    "question": "What are the common names of Acacia dealbata?",
+    "ground_truth_answer": "The common names of Acacia dealbata include silver wattle, blue wattle, and mimosa. This species is native to southeastern Australia and has been widely introduced to various regions around the world.",
+    "source_doc_id": "species_53343",
+    "source_doc_title": "Silver wattle (Acacia dealbata)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is silver wattle suitable for Mediterranean climates?",
+    "ground_truth_answer": "Yes, silver wattle (Acacia dealbata) is suitable for Mediterranean climates, as it has been widely introduced in such regions. Its native habitat includes southeastern Australia, which shares similar climatic conditions with Mediterranean landscapes.",
+    "source_doc_id": "species_53343",
+    "source_doc_title": "Silver wattle (Acacia dealbata)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of silver wattle have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 23,212 observations of silver wattle (Acacia dealbata) recorded in Arizona. This indicates a significant presence of the species in the region, despite it being native to southeastern Australia.",
+    "source_doc_id": "species_53343",
+    "source_doc_title": "Silver wattle (Acacia dealbata)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does the screwbean plant belong to?",
+    "ground_truth_answer": "The screwbean plant, scientifically known as Prosopis pubescens, belongs to the Fabaceae family, which is commonly referred to as the pea family. This family includes a variety of flowering plants, including shrubs and trees.",
+    "source_doc_id": "species_1493097",
+    "source_doc_title": "screwbean (Strombocarpa pubescens)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is screwbean mesquite native to Arizona?",
+    "ground_truth_answer": "Yes, screwbean mesquite (Prosopis pubescens) is native to Arizona, as well as other southwestern states in the United States and northern Mexico. It is a species of flowering shrub or small tree in the Fabaceae family.",
+    "source_doc_id": "species_1493097",
+    "source_doc_title": "screwbean (Strombocarpa pubescens)",
+    "document_type": "species"
+  },
+  {
+    "question": "How can I identify a screwbean (Strombocarpa pubescens) in my garden?",
+    "ground_truth_answer": "You can identify a screwbean (Strombocarpa pubescens) by its characteristic flowering shrub or small tree form, which belongs to the pea family, Fabaceae. Look for its unique screw-shaped seed pods and its presence in arid regions, as it is native to the southwestern United States and northern Mexico. Additionally, check for its leaves, which are typically compound and may resemble those of other mesquite species.",
+    "source_doc_id": "species_1493097",
+    "source_doc_title": "screwbean (Strombocarpa pubescens)",
+    "document_type": "species"
+  },
+  {
+    "question": "What are the common names for Cylindropuntia fosbergii?",
+    "ground_truth_answer": "The common names for Cylindropuntia fosbergii include Hoffmann's teddybear cholla, pink teddy-bear cholla, and Mason Valley cholla. This cactus species is endemic to south-eastern California, specifically within Anza-Borrego Desert State Park.",
+    "source_doc_id": "species_321642",
+    "source_doc_title": "Mason Valley Cholla (Cylindropuntia fosbergii)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is the Mason Valley cholla suitable for planting in areas outside of its native range in south-eastern California?",
+    "ground_truth_answer": "The document does not provide specific information regarding the suitability of Mason Valley cholla for planting outside its native range in south-eastern California. However, since it is endemic to a limited area, it may not thrive or could potentially become invasive in non-native environments. Careful consideration of local conditions and ecological impacts would be necessary before planting it elsewhere.",
+    "source_doc_id": "species_321642",
+    "source_doc_title": "Mason Valley Cholla (Cylindropuntia fosbergii)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of Mason Valley cholla have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 6,024 observations of Mason Valley cholla (Cylindropuntia fosbergii) recorded in Arizona. However, it is important to note that this species is endemic to south-eastern California and its natural range is limited to that area, specifically within Anza-Borrego Desert State Park.",
+    "source_doc_id": "species_321642",
+    "source_doc_title": "Mason Valley Cholla (Cylindropuntia fosbergii)",
+    "document_type": "species"
+  },
+  {
+    "question": "What type of soil does the Argentine screwbean (Strombocarpa strombulifera) prefer for optimal growth?",
+    "ground_truth_answer": "The Argentine screwbean (Strombocarpa strombulifera) prefers arid and saline soils for optimal growth. This adaptability to harsh soil conditions is characteristic of the species, which is native to Argentina.",
+    "source_doc_id": "species_1493099",
+    "source_doc_title": "argentine screwbean (Strombocarpa strombulifera)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is the Argentine screwbean considered invasive in Arizona, and how can I manage its growth in a garden setting?",
+    "ground_truth_answer": "Yes, the Argentine screwbean is considered invasive in Arizona, as indicated by its establishment in the wild after being introduced. To manage its growth in a garden setting, regular monitoring and removal of seedlings, along with the use of mulch to suppress its spread, can be effective strategies. Additionally, implementing physical barriers may help prevent its encroachment into desired garden areas.",
+    "source_doc_id": "species_1493099",
+    "source_doc_title": "argentine screwbean (Strombocarpa strombulifera)",
+    "document_type": "species"
+  },
+  {
+    "question": "What are the common names for Strombocarpa strombulifera, and how can I identify it among other mesquite shrubs?",
+    "ground_truth_answer": "The common names for Strombocarpa strombulifera are Argentine screwbean and creeping screwbean in English, and retortu\u00f1o in Spanish. To identify it among other mesquite shrubs, look for its distinctive growth in arid and saline soils, as well as its invasive characteristics noted in regions like California.",
+    "source_doc_id": "species_1493099",
+    "source_doc_title": "argentine screwbean (Strombocarpa strombulifera)",
+    "document_type": "species"
+  },
+  {
+    "question": "What is the scientific classification of the Great Desert Spoon?",
+    "ground_truth_answer": "The scientific classification of the Great Desert Spoon, or Dasylirion acrotrichum, places it in the family Asparagaceae and the genus Dasylirion. It is a plant native to the Chihuahuan Desert and other xeric habitats in northern and central Mexico.",
+    "source_doc_id": "species_276586",
+    "source_doc_title": "Great Desert Spoon (Dasylirion acrotrichum)",
+    "document_type": "species"
+  },
+  {
+    "question": "Where is the Great Desert Spoon native to?",
+    "ground_truth_answer": "The Great Desert Spoon, or Dasylirion acrotrichum, is native to the Chihuahuan Desert and other xeric habitats in northern and central Mexico. It is adapted to arid environments typical of these regions.",
+    "source_doc_id": "species_276586",
+    "source_doc_title": "Great Desert Spoon (Dasylirion acrotrichum)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is the Great Desert Spoon suitable for xeric gardening in Arizona?",
+    "ground_truth_answer": "Yes, the Great Desert Spoon (Dasylirion acrotrichum) is suitable for xeric gardening in Arizona, as it is native to the Chihuahuan Desert and thrives in xeric habitats. Its adaptation to dry environments makes it an excellent choice for low-water landscaping.",
+    "source_doc_id": "species_276586",
+    "source_doc_title": "Great Desert Spoon (Dasylirion acrotrichum)",
+    "document_type": "species"
+  },
+  {
+    "question": "What are the common names for the White Carob Tree in Spanish and Guaran\u00ed?",
+    "ground_truth_answer": "In Spanish, the White Carob Tree is commonly known as \"algarrobo blanco.\" In Guaran\u00ed, it is referred to as \"ibop\u00e9\" and \"igop\u00e9.\"",
+    "source_doc_id": "species_1493104",
+    "source_doc_title": "White Carob Tree (Neltuma alba)",
+    "document_type": "species"
+  },
+  {
+    "question": "What is the conservation status of the White Carob Tree (Neltuma alba)?",
+    "ground_truth_answer": "The conservation status of the White Carob Tree (Neltuma alba) is listed as Near Threatened (NT). This status indicates that the species may be facing threats that could lead to its decline in the future.",
+    "source_doc_id": "species_1493104",
+    "source_doc_title": "White Carob Tree (Neltuma alba)",
+    "document_type": "species"
+  },
+  {
+    "question": "In which regions of South America does the White Carob Tree naturally grow?",
+    "ground_truth_answer": "The White Carob Tree (Neltuma alba) naturally grows in central Argentina, the Gran Chaco ecoregion, and part of the Argentine Mesopotamia. It is also found in Bolivia, Chile, Paraguay, and Peru.",
+    "source_doc_id": "species_1493104",
+    "source_doc_title": "White Carob Tree (Neltuma alba)",
+    "document_type": "species"
+  },
+  {
+    "question": "What is the conservation status of Los Cabos Nipple Cactus (Cochemiea armillata)?",
+    "ground_truth_answer": "The conservation status of Los Cabos Nipple Cactus (Cochemiea armillata) is classified as Vulnerable (VU). This species is found in Mexico and has had 1270 observations recorded in Arizona.",
+    "source_doc_id": "species_1544307",
+    "source_doc_title": "Los Cabos Nipple Cactus (Cochemiea armillata)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of Cochemiea armillata have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 1,270 observations of Cochemiea armillata recorded in Arizona. This species is part of the Cactaceae family and is found in Mexico. Its conservation status is classified as Vulnerable (VU).",
+    "source_doc_id": "species_1544307",
+    "source_doc_title": "Los Cabos Nipple Cactus (Cochemiea armillata)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is Cochemiea armillata suitable for cultivation in a home garden?",
+    "ground_truth_answer": "The document does not provide specific information regarding the suitability of Cochemiea armillata for cultivation in a home garden. However, given its conservation status of Vulnerable (VU), it may be advisable to consider local regulations and conservation efforts before cultivating this species. Additionally, factors such as climate and care requirements would need to be researched further for successful cultivation.",
+    "source_doc_id": "species_1544307",
+    "source_doc_title": "Los Cabos Nipple Cactus (Cochemiea armillata)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does the blue palo verde belong to?",
+    "ground_truth_answer": "The blue palo verde, scientifically known as Parkinsonia florida, belongs to the Fabaceae family. This family is commonly known as the legume, pea, or bean family, which includes a variety of flowering plants.",
+    "source_doc_id": "species_63603",
+    "source_doc_title": "blue palo verde (Parkinsonia florida)",
+    "document_type": "species"
+  },
+  {
+    "question": "What are the key characteristics of the blue palo verde that help with its identification?",
+    "ground_truth_answer": "The blue palo verde (Parkinsonia florida) is characterized by its green trunk and branches, which perform photosynthesis. This distinctive green coloration is a key feature for identification, along with its native habitat in the Sonoran Deserts of the Southwestern United States and Northwestern Mexico.",
+    "source_doc_id": "species_63603",
+    "source_doc_title": "blue palo verde (Parkinsonia florida)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is the blue palo verde native to Arizona and what regions is it commonly found in?",
+    "ground_truth_answer": "Yes, the blue palo verde (Parkinsonia florida) is native to Arizona. It is commonly found in the Sonoran Deserts in the Southwestern United States and Northwestern Mexico.",
+    "source_doc_id": "species_63603",
+    "source_doc_title": "blue palo verde (Parkinsonia florida)",
+    "document_type": "species"
+  },
+  {
+    "question": "What type of soil does the calden (Neltuma caldenia) prefer for optimal growth?",
+    "ground_truth_answer": "The calden (Neltuma caldenia) prefers sandy and arid soil for optimal growth. It is well-adapted to these conditions and has developed an extremely deep root system to resist drought.",
+    "source_doc_id": "species_1493114",
+    "source_doc_title": "calden (Neltuma caldenia)",
+    "document_type": "species"
+  },
+  {
+    "question": "How does the calden tree adapt to drought conditions?",
+    "ground_truth_answer": "The calden tree adapts to drought conditions by developing an extremely deep root system, which allows it to access water from deeper soil layers. Additionally, it thrives in sandy and arid soil, further enhancing its ability to survive in low-water environments.",
+    "source_doc_id": "species_1493114",
+    "source_doc_title": "calden (Neltuma caldenia)",
+    "document_type": "species"
+  },
+  {
+    "question": "Can the calden tree be successfully grown in Arizona's climate?",
+    "ground_truth_answer": "Yes, the calden tree can be successfully grown in Arizona's climate, as it thrives in sandy and arid soil and is resistant to drought. The tree's ability to develop an extremely deep root system further supports its adaptability to similar environments, as evidenced by the 655 observations recorded in Arizona.",
+    "source_doc_id": "species_1493114",
+    "source_doc_title": "calden (Neltuma caldenia)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does the Queen Victoria agave belong to?",
+    "ground_truth_answer": "The Queen Victoria agave, scientifically known as Agave victoriae-reginae, belongs to the family Asparagaceae. This family includes various species of flowering plants, and the Queen Victoria agave is specifically noted for its ornamental qualities and distinctive leaf patterns.",
+    "source_doc_id": "species_204924",
+    "source_doc_title": "Queen Victoria Agave (Agave victoriae-reginae)",
+    "document_type": "species"
+  },
+  {
+    "question": "How would you describe the appearance of Agave victoriae-reginae?",
+    "ground_truth_answer": "Agave victoriae-reginae, also known as Queen Victoria agave, features sculptured geometrical leaves adorned with streaks of white, giving it a striking appearance. This small succulent plant is noted for its ornamental value, making it a popular choice for gardens.",
+    "source_doc_id": "species_204924",
+    "source_doc_title": "Queen Victoria Agave (Agave victoriae-reginae)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is the Queen Victoria agave suitable for ornamental gardening in Arizona?",
+    "ground_truth_answer": "Yes, the Queen Victoria agave is suitable for ornamental gardening in Arizona. Its unique appearance, characterized by streaks of white on sculptured geometrical leaves, makes it a popular choice for ornamental use. Additionally, its classification as a succulent suggests it can thrive in the arid conditions typical of the region.",
+    "source_doc_id": "species_204924",
+    "source_doc_title": "Queen Victoria Agave (Agave victoriae-reginae)",
+    "document_type": "species"
+  },
+  {
+    "question": "What is the conservation status of the Mexican Pony Tail Palm (Beaucarnea gracilis)?",
+    "ground_truth_answer": "The conservation status of the Mexican Pony Tail Palm (Beaucarnea gracilis) is classified as Endangered (EN). This status indicates that the species faces a high risk of extinction in the wild.",
+    "source_doc_id": "species_204926",
+    "source_doc_title": "Mexican Pony Tail Palm (Beaucarnea gracilis)",
+    "document_type": "species"
+  },
+  {
+    "question": "What does the term 'gracilis' imply about the Mexican Pony Tail Palm's trunk?",
+    "ground_truth_answer": "The term 'gracilis' means \"slender,\" which is misleading in the context of the Mexican Pony Tail Palm's trunk. Despite its name, the trunk of Beaucarnea gracilis is actually bulbous rather than slender.",
+    "source_doc_id": "species_204926",
+    "source_doc_title": "Mexican Pony Tail Palm (Beaucarnea gracilis)",
+    "document_type": "species"
+  },
+  {
+    "question": "Where is the native habitat of Beaucarnea gracilis?",
+    "ground_truth_answer": "Beaucarnea gracilis is native to partial-desert areas in Mexico. Its habitat is characterized by conditions typical of these arid environments.",
+    "source_doc_id": "species_204926",
+    "source_doc_title": "Mexican Pony Tail Palm (Beaucarnea gracilis)",
+    "document_type": "species"
+  },
+  {
+    "question": "What are the native habitats of the common fishhook cactus (Cochemiea tetrancistra)?",
+    "ground_truth_answer": "The common fishhook cactus (Cochemiea tetrancistra) is native to the Mojave and Sonoran Deserts. It thrives in a variety of desert habitat types found in northern Mexico and the southwestern United States.",
+    "source_doc_id": "species_1544319",
+    "source_doc_title": "Common Fishhook Cactus (Cochemiea tetrancistra)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of the common fishhook cactus have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 3,105 observations of the common fishhook cactus (Cochemiea tetrancistra) recorded in Arizona. This species is native to the Mojave and Sonoran Deserts, where it thrives in various desert habitats.",
+    "source_doc_id": "species_1544319",
+    "source_doc_title": "Common Fishhook Cactus (Cochemiea tetrancistra)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family and genus does the common fishhook cactus belong to?",
+    "ground_truth_answer": "The common fishhook cactus, scientifically known as Cochemiea tetrancistra, belongs to the family Cactaceae and the genus Cochemiea. This species is native to the Mojave and Sonoran Deserts.",
+    "source_doc_id": "species_1544319",
+    "source_doc_title": "Common Fishhook Cactus (Cochemiea tetrancistra)",
+    "document_type": "species"
+  },
+  {
+    "question": "What are the common names for Neltuma chilensis?",
+    "ground_truth_answer": "The common names for Neltuma chilensis include Chilean mesquite (algarrobo chileno in Spanish), cupes\u00ed (in eastern Bolivia), and Chilean algarrobo. These names reflect its regional significance and usage in various countries where it is found.",
+    "source_doc_id": "species_1493119",
+    "source_doc_title": "Chilean Mesquite (Neltuma chilensis)",
+    "document_type": "species"
+  },
+  {
+    "question": "In which regions outside of Arizona is Chilean mesquite naturally found?",
+    "ground_truth_answer": "Chilean mesquite (Neltuma chilensis) is naturally found in central Chile, southern Peru, Bolivia, and northwestern Argentina. These regions provide the suitable climate and conditions for its growth.",
+    "source_doc_id": "species_1493119",
+    "source_doc_title": "Chilean Mesquite (Neltuma chilensis)",
+    "document_type": "species"
+  },
+  {
+    "question": "What are some practical uses for Chilean mesquite in gardening or landscaping?",
+    "ground_truth_answer": "Chilean mesquite (Neltuma chilensis) is commonly used in gardening and landscaping for providing shade due to its tree structure. Additionally, it can serve as a source of animal feed and firewood, making it a versatile choice for various outdoor applications.",
+    "source_doc_id": "species_1493119",
+    "source_doc_title": "Chilean Mesquite (Neltuma chilensis)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does honey mesquite (Neltuma glandulosa) belong to?",
+    "ground_truth_answer": "Honey mesquite (Neltuma glandulosa) belongs to the family Fabaceae. This family is commonly known as the legume family, which includes a variety of flowering plants.",
+    "source_doc_id": "species_1493134",
+    "source_doc_title": "honey mesquite (Neltuma glandulosa)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is honey mesquite a shrub or a tree, and what is its typical size?",
+    "ground_truth_answer": "Honey mesquite, or Neltuma glandulosa, is a species that can be classified as either a small to medium-sized shrub or tree. It is characterized by its thorny structure and belongs to the legume family (Fabaceae).",
+    "source_doc_id": "species_1493134",
+    "source_doc_title": "honey mesquite (Neltuma glandulosa)",
+    "document_type": "species"
+  },
+  {
+    "question": "What should I consider when selecting honey mesquite for my garden in Arizona?",
+    "ground_truth_answer": "When selecting honey mesquite (Neltuma glandulosa) for your garden in Arizona, consider its growth habit as a thorny shrub or small tree, which may require space and careful placement. Additionally, be aware of its adaptability to the local environment, as it has been observed extensively in the region, indicating its suitability for Arizona's climate.",
+    "source_doc_id": "species_1493134",
+    "source_doc_title": "honey mesquite (Neltuma glandulosa)",
+    "document_type": "species"
+  },
+  {
+    "question": "What are the native regions of the mesquite plant (Neltuma juliflora)?",
+    "ground_truth_answer": "The mesquite plant Neltuma juliflora is native to Mexico, South America, and the Caribbean. It has become established as an invasive species in various regions outside its native range.",
+    "source_doc_id": "species_1493141",
+    "source_doc_title": "mesquite (Neltuma juliflora)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is mesquite (Prosopis juliflora) suitable for gardens in Arizona?",
+    "ground_truth_answer": "Prosopis juliflora, commonly known as mesquite, is native to Mexico and South America but has become an invasive species in various regions, including Arizona. While it may be suitable for gardens due to its hardiness, its invasive nature can lead to negative ecological impacts, making it a less desirable choice for landscaping in the area.",
+    "source_doc_id": "species_1493141",
+    "source_doc_title": "mesquite (Neltuma juliflora)",
+    "document_type": "species"
+  },
+  {
+    "question": "Does mesquite contribute to malaria transmission and should that influence its cultivation?",
+    "ground_truth_answer": "Yes, mesquite, specifically *Prosopis juliflora*, is a contributing factor to the transmission of malaria, particularly during dry periods. This potential health risk should be considered when deciding on its cultivation, especially in areas where malaria is prevalent.",
+    "source_doc_id": "species_1493141",
+    "source_doc_title": "mesquite (Neltuma juliflora)",
+    "document_type": "species"
+  },
+  {
+    "question": "What are the native regions of the smooth mesquite (Neltuma laevigata)?",
+    "ground_truth_answer": "The smooth mesquite (Neltuma laevigata) is native to Mexico and Texas. In Mexico, it is found in the central highlands, the lowlands of southern Tamaulipas, and parts of Oaxaca, Morelos, Puebla, and Chiapas.",
+    "source_doc_id": "species_1493145",
+    "source_doc_title": "Smooth Mesquite (Neltuma laevigata)",
+    "document_type": "species"
+  },
+  {
+    "question": "In what types of locations does smooth mesquite typically grow in Arizona?",
+    "ground_truth_answer": "Smooth mesquite typically grows in a variety of locations in Arizona, including hillsides, depressions, and along floodplains. These diverse habitats allow the species to thrive in different environmental conditions.",
+    "source_doc_id": "species_1493145",
+    "source_doc_title": "Smooth Mesquite (Neltuma laevigata)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does the smooth mesquite belong to, and how does this affect its care in a garden setting?",
+    "ground_truth_answer": "Smooth mesquite (Neltuma laevigata) belongs to the Fabaceae family, which includes legumes. This affects its care in a garden setting as it may benefit from nitrogen-fixing properties, improving soil fertility, and it typically requires well-drained soil and full sun exposure for optimal growth.",
+    "source_doc_id": "species_1493145",
+    "source_doc_title": "Smooth Mesquite (Neltuma laevigata)",
+    "document_type": "species"
+  },
+  {
+    "question": "What type of habitat does the large-leaved lupine (Lupinus polyphyllus) prefer?",
+    "ground_truth_answer": "The large-leaved lupine (Lupinus polyphyllus) prefers moist habitats, commonly growing along streams and creeks. This species is native to western North America, indicating its adaptation to environments with ample moisture.",
+    "source_doc_id": "species_59549",
+    "source_doc_title": "Large-leaved lupine (Lupinus polyphyllus)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is the large-leaved lupine native to Arizona?",
+    "ground_truth_answer": "The large-leaved lupine (*Lupinus polyphyllus*) is native to western North America, including regions from southern Alaska and British Columbia to Quebec, and parts of Wyoming, Utah, and California. While the document notes that there are 51,359 observations recorded in Arizona, it does not explicitly state that the species is native to that state. Therefore, it cannot be concluded definitively that the large-leaved lupine is native to Arizona based solely on the provided document.",
+    "source_doc_id": "species_59549",
+    "source_doc_title": "Large-leaved lupine (Lupinus polyphyllus)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of Lupinus polyphyllus have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 51,359 observations of Lupinus polyphyllus recorded in Arizona. This indicates a significant presence of the species in the region, likely due to its preference for moist habitats along streams and creeks.",
+    "source_doc_id": "species_59549",
+    "source_doc_title": "Large-leaved lupine (Lupinus polyphyllus)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does the Broad-lipped Twayblade (Neottia convallarioides) belong to?",
+    "ground_truth_answer": "The Broad-lipped Twayblade (Neottia convallarioides) belongs to the family Orchidaceae. This family is commonly known as the orchid family, which includes a diverse range of flowering plants.",
+    "source_doc_id": "species_131229",
+    "source_doc_title": "Broad-lipped Twayblade (Neottia convallarioides)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of the Broad-lipped Twayblade have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 893 observations of the Broad-lipped Twayblade (*Neottia convallarioides*) recorded in Arizona. This species, which belongs to the Orchidaceae family, was previously classified under the genus Listera before being reclassified into Neottia based on molecular phylogenetic studies.",
+    "source_doc_id": "species_131229",
+    "source_doc_title": "Broad-lipped Twayblade (Neottia convallarioides)",
+    "document_type": "species"
+  },
+  {
+    "question": "What is the previous genus designation for the Broad-lipped Twayblade before it was moved to Neottia?",
+    "ground_truth_answer": "The Broad-lipped Twayblade, scientifically known as Neottia convallarioides, was formerly placed in the genus Listera. Molecular phylogenetic studies led to the reclassification of all species of Listera into the genus Neottia.",
+    "source_doc_id": "species_131229",
+    "source_doc_title": "Broad-lipped Twayblade (Neottia convallarioides)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does the pink fairy-duster (Calliandra eriophylla) belong to?",
+    "ground_truth_answer": "The pink fairy-duster, scientifically known as Calliandra eriophylla, belongs to the family Fabaceae. This family is commonly referred to as the legume, pea, or bean family.",
+    "source_doc_id": "species_75933",
+    "source_doc_title": "pink fairy-duster (Calliandra eriophylla)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is the pink fairy-duster suitable for arid garden landscapes in Arizona?",
+    "ground_truth_answer": "Yes, the pink fairy-duster (Calliandra eriophylla) is suitable for arid garden landscapes in Arizona, as it is native to deserts and arid grasslands in the region. Its adaptation to dry environments makes it an excellent choice for xeriscaping and low-water gardens.",
+    "source_doc_id": "species_75933",
+    "source_doc_title": "pink fairy-duster (Calliandra eriophylla)",
+    "document_type": "species"
+  },
+  {
+    "question": "How can I identify the pink fairy-duster among other desert shrubs?",
+    "ground_truth_answer": "You can identify the pink fairy-duster (Calliandra eriophylla) by its low spreading growth habit and distinctive pink fluffy flowers. It is native to deserts and arid grasslands, primarily found in regions of California, Arizona, New Mexico, Texas, and Mexico, making it a common sight in those areas.",
+    "source_doc_id": "species_75933",
+    "source_doc_title": "pink fairy-duster (Calliandra eriophylla)",
+    "document_type": "species"
+  },
+  {
+    "question": "What are the common names for Neltuma pallida?",
+    "ground_truth_answer": "The common names for Neltuma pallida include kiawe in Hawaii, huarango in its native South America, and American carob. Additionally, it is referred to as \"bayahonda,\" \"algarrobo p\u00e1lido\" in some parts of Ecuador and Peru, and \"algarrobo blanco,\" typically associated with Prosopis alba.",
+    "source_doc_id": "species_1493156",
+    "source_doc_title": "kiawe (Neltuma pallida)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is kiawe suitable for planting in dry areas of Arizona?",
+    "ground_truth_answer": "Yes, kiawe (Neltuma pallida) is suitable for planting in dry areas of Arizona, as it is a species of mesquite tree native to drier regions of South America. Its adaptation to arid environments makes it a viable option for similar climates, such as those found in Arizona.",
+    "source_doc_id": "species_1493156",
+    "source_doc_title": "kiawe (Neltuma pallida)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does the kiawe tree belong to?",
+    "ground_truth_answer": "The kiawe tree, scientifically known as Neltuma pallida, belongs to the family Fabaceae. This family is commonly known as the legume, pea, or bean family, which includes a variety of flowering plants.",
+    "source_doc_id": "species_1493156",
+    "source_doc_title": "kiawe (Neltuma pallida)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does the Eyed Baileya Moth belong to?",
+    "ground_truth_answer": "The Eyed Baileya Moth, scientifically known as Baileya ophthalmica, belongs to the family Nolidae. This family includes various species of nolid moths, and the Eyed Baileya is specifically noted for its presence in North America.",
+    "source_doc_id": "species_143525",
+    "source_doc_title": "Eyed Baileya Moth (Baileya ophthalmica)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of the Eyed Baileya Moth have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 3,025 observations of the Eyed Baileya Moth (Baileya ophthalmica) recorded in Arizona. This indicates a significant presence of the species in that region.",
+    "source_doc_id": "species_143525",
+    "source_doc_title": "Eyed Baileya Moth (Baileya ophthalmica)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is the Eyed Baileya Moth commonly found in desert garden environments?",
+    "ground_truth_answer": "The document does not provide specific information about the habitat preferences of the Eyed Baileya Moth, including whether it is commonly found in desert garden environments. However, since it is recorded in Arizona, which has desert regions, it is possible that it may inhabit such environments. Further research would be needed to confirm its presence in desert gardens specifically.",
+    "source_doc_id": "species_143525",
+    "source_doc_title": "Eyed Baileya Moth (Baileya ophthalmica)",
+    "document_type": "species"
+  },
+  {
+    "question": "What family does Schaffner's acacia belong to?",
+    "ground_truth_answer": "Schaffner's acacia, scientifically known as Vachellia schaffneri, belongs to the family Fabaceae. This family is commonly known as the legume, pea, or bean family, which includes a variety of flowering plants.",
+    "source_doc_id": "species_809132",
+    "source_doc_title": "Schaffner's acacia (Vachellia schaffneri)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is Vachellia schaffneri suitable for planting in Arizona gardens?",
+    "ground_truth_answer": "Yes, Vachellia schaffneri, also known as Schaffner's acacia, is suitable for planting in Arizona gardens, as it has been observed in the state with 2,238 recorded observations. Its native range includes regions in the United States, specifically Texas, indicating its adaptability to similar climates found in Arizona.",
+    "source_doc_id": "species_809132",
+    "source_doc_title": "Schaffner's acacia (Vachellia schaffneri)",
+    "document_type": "species"
+  },
+  {
+    "question": "How can I identify a twisted acacia in the wild?",
+    "ground_truth_answer": "To identify a twisted acacia (Vachellia schaffneri) in the wild, look for a tree native to Mexico and Texas, characterized by its twisted branches. Observations in Arizona may also indicate its presence, so check for its distinctive foliage and growth habit typical of acacia species.",
+    "source_doc_id": "species_809132",
+    "source_doc_title": "Schaffner's acacia (Vachellia schaffneri)",
+    "document_type": "species"
+  },
+  {
+    "question": "What are the common names for Fouquieria splendens?",
+    "ground_truth_answer": "Fouquieria splendens is commonly known as ocotillo, but it is also referred to by several other names including coachwhip, candlewood, slimwood, desert coral, Jacob's staff, Jacob cactus, and vine cactus. These names reflect its various characteristics and uses in different contexts.",
+    "source_doc_id": "species_49325",
+    "source_doc_title": "ocotillo (Fouquieria splendens)",
+    "document_type": "species"
+  },
+  {
+    "question": "In which regions of the Southwestern United States is ocotillo native?",
+    "ground_truth_answer": "Ocotillo (Fouquieria splendens) is native to the Southwestern United States, specifically in southern Nevada, Arizona, New Mexico, and Texas. It is also found in northern Mexico, extending as far south as Hidalgo and Guerrero.",
+    "source_doc_id": "species_49325",
+    "source_doc_title": "ocotillo (Fouquieria splendens)",
+    "document_type": "species"
+  },
+  {
+    "question": "How many observations of ocotillo have been recorded in Arizona?",
+    "ground_truth_answer": "There have been 40,640 observations of ocotillo (Fouquieria splendens) recorded in Arizona. This indicates a significant presence of the plant in the region, which is part of its native habitat in the Southwestern United States.",
+    "source_doc_id": "species_49325",
+    "source_doc_title": "ocotillo (Fouquieria splendens)",
+    "document_type": "species"
+  },
+  {
+    "question": "What role does velvet mesquite play in the ecology of the Sonoran Desert?",
+    "ground_truth_answer": "Velvet mesquite (Neltuma velutina) plays a vital role in the ecology of the Sonoran Desert by providing essential habitat and food sources for various wildlife species. Its presence supports the desert ecosystem, despite being considered a noxious weed in areas outside its natural range.",
+    "source_doc_id": "species_1493168",
+    "source_doc_title": "velvet mesquite (Neltuma velutina)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is velvet mesquite considered a noxious weed in Arizona?",
+    "ground_truth_answer": "No, velvet mesquite is not considered a noxious weed in Arizona. While it is regarded as a noxious weed in states outside its natural range, it plays an important ecological role in the Sonoran Desert, where it is native.",
+    "source_doc_id": "species_1493168",
+    "source_doc_title": "velvet mesquite (Neltuma velutina)",
+    "document_type": "species"
+  },
+  {
+    "question": "What is the scientific name of velvet mesquite and how can I identify it in my garden?",
+    "ground_truth_answer": "The scientific name of velvet mesquite is *Neltuma velutina*. You can identify it in your garden by its small to medium size and its adaptation to dry, desert-like conditions, as well as its characteristic leguminous features.",
+    "source_doc_id": "species_1493168",
+    "source_doc_title": "velvet mesquite (Neltuma velutina)",
+    "document_type": "species"
+  },
+  {
+    "question": "What are the typical habitats where Baileya australis can be found in Arizona?",
+    "ground_truth_answer": "The document does not provide specific information about the typical habitats of Baileya australis in Arizona. It only mentions that there have been 3,753 observations recorded in the state. Further research would be needed to determine their typical habitats in Arizona.",
+    "source_doc_id": "species_215225",
+    "source_doc_title": "Small Baileya Moth (Baileya australis)",
+    "document_type": "species"
+  },
+  {
+    "question": "How might the presence of the small baileya moth affect my garden plants?",
+    "ground_truth_answer": "The small baileya moth, Baileya australis, may impact garden plants by potentially feeding on them, as many moth larvae are known to be herbivorous. However, specific information on its feeding habits is not provided in the document, so the extent of its effect on garden plants remains uncertain. Monitoring for any signs of damage or infestation would be advisable.",
+    "source_doc_id": "species_215225",
+    "source_doc_title": "Small Baileya Moth (Baileya australis)",
+    "document_type": "species"
+  },
+  {
+    "question": "Is Baileya australis attracted to specific types of plants commonly found in Arizona gardens?",
+    "ground_truth_answer": "The document does not provide information about whether Baileya australis is attracted to specific types of plants commonly found in Arizona gardens. It only mentions the moth's distribution and the number of observations recorded in Arizona.",
+    "source_doc_id": "species_215225",
+    "source_doc_title": "Small Baileya Moth (Baileya australis)",
+    "document_type": "species"
+  }
+]

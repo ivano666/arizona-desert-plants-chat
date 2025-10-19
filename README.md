@@ -4,6 +4,8 @@
 
 The Arizona Desert Plants Assistant is a Retrieval-Augmented Generation (RAG) application designed to help plant enthusiasts, homeowners, and landscaping professionals learn about and successfully cultivate the extensive variety of plants in the Sonoran Desert. By combining scientific botanical knowledge with practical Arizona-specific growing advice, this system intents to provide authoritative, context-aware answers to questions about desert plant care, identification, and landscaping.
 
+**NOTE:** This project was implemented as part of [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp), a free course about LLMs and RAG.
+
 ## Problem Statement
 
 Desert gardening in Arizona presents unique challenges that generic plant care resources fail to address. Phoenix and Tucson gardeners face extreme heat, minimal rainfall, alkaline soils, and intense UV exposure. Traditional plant databases either lack regional specificity or fail to integrate scientific knowledge with practical cultivation advice. There is a need for an intelligent system that can answer both "What is this plant?" and "How do I successfully grow it in Phoenix's harsh climate?"
@@ -75,25 +77,6 @@ Unlike generic plant databases or general gardening chatbots, the Arizona Desert
 
 This integration of scientific knowledge with regional expertise makes the system invaluable for anyone gardening in the Sonoran Desert.
 
-## Dataset Overview
-
-The knowledge base consists of high-quality, authoritative sources:
-
-**1. iNaturalist Species Database (340 species)**
-- Research-grade plant observations from Arizona
-- Scientific and common names with full taxonomic classification
-- Wikipedia summaries providing botanical descriptions and characteristics
-- Conservation status and native/introduced designations
-
-**2. University of Arizona Cooperative Extension Publications (~14 documents)**
-- Expert-reviewed care guides and cultivation instructions
-- Desert landscaping and xeriscaping best practices
-- Plant selection guides for Arizona conditions
-- Specific care sheets for common desert plants (cacti, agaves, native trees)
-- Watering, fertilizing, and seasonal maintenance guidelines
-
-**Total Dataset**: ~400,000 characters of curated, Arizona-focused content combining scientific rigor with practical expertise.
-
 ## Technical Approach
 
 This project implements a complete RAG pipeline including:
@@ -112,16 +95,93 @@ By providing accessible, accurate, and regionally appropriate plant information,
 - Support sustainable desert gardening practices
 - Make expert horticultural knowledge accessible to all skill levels
 
-## Setup
+
+## Technologies
+
+- Python 3.12
+- Docker and Docker Compose
+- Qdrant for the vector store
+- LLM is OpenAI
+
+## Pre-requisites
+
 An OPENAI API key is required:
 1. Since we are using OpenAI, it is a good practice to create a new project and key
 2. Install direnv for your operating system - [link](https://direnv.net/docs/installation.html)
     1. Follow the **basic installation** instructions as well as **how to hook onto your shell**
-    2. The quick demo section shows an example on how to create an env variable
+    2. The quick demo section in their documentation shows an example on how to create an env variable
 
+## Dataset Overview and Preparation
 
-## Data Preparation
+The knowledge base consists of high-quality, authoritative sources:
+
+**1. iNaturalist Species Database (340 species)**
+- Research-grade plant observations from Arizona
+- Scientific and common names with full taxonomic classification
+- Wikipedia summaries providing botanical descriptions and characteristics
+- Conservation status and native/introduced designations
+
+**2. University of Arizona Cooperative Extension Publications (~14 documents)**
+- Expert-reviewed care guides and cultivation instructions
+- Desert landscaping and xeriscaping best practices
+- Plant selection guides for Arizona conditions
+- Specific care sheets for common desert plants (cacti, agaves, native trees)
+- Watering, fertilizing, and seasonal maintenance guidelines
+
+**Total Dataset**: ~400,000 characters of curated, Arizona-focused content combining scientific rigor with practical expertise.
+
+All the data currently used in the application can be found in the [data-preparation directory](data-preparation)
+
+The tooling can be found in the data preparation jupyter notebook [data-preparation.ipynb](data-preparation/data-preparation.ipynb)
 
 ## Data Ingestion
 
-## 
+We used the jupyter notebook [data-ingestion.ipynb](data-ingestion/data-ingestion.ipynb) while we were developing the RAG pipeline. However, we created an standalone python script to be used as part of the setup to run the assistant
+
+## Evaluation
+
+We generated 150 questions based on the dataset we are currently using.
+
+Steps:
+1. Load the curated documents
+2. Generate 3 questions for 50 documents in the dataset
+3. Evaluate:
+   1. Evaluate if we can find the right document from the question and answer pair
+      1. This measures our document hit rate and MRR
+   2. Generate an answer with our RAG
+   3. Evaluate the answer quality
+      1. Uses LLM as a judge (**note** room for improvement here to use a different LLM)
+4. Capture metrics:
+   1. Hit Rate (top 5 docs)
+   2. Mean Reciprocal Rank (MRR)
+   3. Answer Quality:
+      1. Relevance (Answers the questions well)
+      2. Faithfulness (Hallucinations)
+      3. Completeness (Key points from ground truth)
+      4. Clarity (Well written responses)
+      5. Overall score (mean of average score from all the metrics)
+
+
+### Retrieval Metrics:
+  Hit Rate@5: 96.00%
+  Mean Reciprocal Rank: 0.919
+
+### Answer Quality (Average scores out of 5):
+  Relevance:     4.88
+  Faithfulness:  4.93
+  Completeness:  4.60
+  Clarity:       4.97
+  Overall:       4.84
+
+Lowest scoring questions:
+                                              question  average_score
+81   What are the common names for Cylindropuntia f...           2.75
+5    What is another common name for Cylindropuntia...           3.25
+20   Is Penstemon digitalis suitable for Arizona ga...           3.75
+147  What are the typical habitats where Baileya au...           3.75
+149  Is Baileya australis attracted to specific typ...           3.75
+
+
+## Monitoring
+
+
