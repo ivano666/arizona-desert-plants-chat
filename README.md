@@ -163,25 +163,18 @@ Steps:
 
 
 ### Retrieval Metrics:
-  Hit Rate@5: 96.00%
-  Mean Reciprocal Rank: 0.919
+  Hit Rate@5: 96.00% -- Finds the right document 96% of the time in the top 5 results
+  Mean Reciprocal Rank: 0.919 -- On average, the correct document shows at the position ~ 1.09 -- close to #1
 
 ### Answer Quality (Average scores out of 5):
   Relevance:     4.88
   Faithfulness:  4.93
   Completeness:  4.60
   Clarity:       4.97
-  Overall:       4.84
-
-Lowest scoring questions:
-                                              question  average_score
-81   What are the common names for Cylindropuntia f...           2.75
-5    What is another common name for Cylindropuntia...           3.25
-20   Is Penstemon digitalis suitable for Arizona ga...           3.75
-147  What are the typical habitats where Baileya au...           3.75
-149  Is Baileya australis attracted to specific typ...           3.75
-
+  Overall:       4.84 -- RAG generates high-quality, faithful answers
 
 ## Monitoring
+
+N/A yet
 
 
