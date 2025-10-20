@@ -49,7 +49,7 @@ docker-compose up --build
 
 # 3. Before starting docker-compose, run ingestion locally
 uv sync
-uv run python ingest_data.py
+uv run python data-ingestion/ingestion.py
 
 # API will be available at http://localhost:8000
 # Qdrant UI at http://localhost:6333/dashboard
@@ -57,8 +57,8 @@ uv run python ingest_data.py
 
 That's it! Both Qdrant and the API are running.
 
-**Note**
-You need to wait a few seconds until the logs in the console display this at the end
+**IMPORTANT**
+You need to wait a few seconds until the logs in the console display this at the end before starting to use the API
 
 ```bash
 arizona-plants-qdrant  | 2025-10-20T05:52:14.693279Z  INFO qdrant::tonic: Qdrant gRPC listening on 6334
