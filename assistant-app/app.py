@@ -87,7 +87,8 @@ async def startup_event():
         # Initialize vector store
         vector_store = ArizonaPlantVectorStore(
             embedding_model_name=EMBEDDING_MODEL,
-            collection_name=COLLECTION_NAME
+            collection_name=COLLECTION_NAME,
+            qdrant_url=QDRANT_URL
         )
         print(f"✓ Connected to Qdrant at {QDRANT_URL}")
 
@@ -98,8 +99,8 @@ async def startup_event():
         print("✓ RAG system initialized")
         
         # Verify collection exists
-        collection_info = vector_store.client.get_collection(COLLECTION_NAME)
-        print(f"✓ Collection '{COLLECTION_NAME}' has {collection_info.points_count} documents")
+        # collection_info = vector_store.client.get_collection(COLLECTION_NAME)
+        # print(f"✓ Collection '{COLLECTION_NAME}' has {collection_info.points_count} documents")
         
     except Exception as e:
         print(f"✗ Error during startup: {e}")
@@ -122,6 +123,7 @@ async def root():
         }
     }
 
+@app.head("/health", tags=["Health"])
 @app.get("/health", response_model=HealthResponse, tags=["Health"])
 async def health_check():
     """Check API and Qdrant health"""
@@ -185,6 +187,9 @@ async def query_rag(request: QueryRequest):
         )
         
     except Exception as e:
+        import traceback
+        print(f"ERROR in /query endpoint:")
+        print(traceback.format_exc())  # Print full stack trace
         raise HTTPException(status_code=500, detail=f"Error processing query: {str(e)}")
 
 @app.post("/search", tags=["Search"])

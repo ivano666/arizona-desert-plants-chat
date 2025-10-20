@@ -44,18 +44,38 @@
 cp .env.example .env
 # Edit .env and add your OPENAI_API_KEY
 
-# 2. Before starting docker-compose, run ingestion locally
+# 2. Build and start everything
+docker-compose up --build
+
+# 3. Before starting docker-compose, run ingestion locally
 uv sync
 uv run python ingest_data.py
-
-# 3. Build and start everything
-docker-compose up --build
 
 # API will be available at http://localhost:8000
 # Qdrant UI at http://localhost:6333/dashboard
 ```
 
 That's it! Both Qdrant and the API are running.
+
+**Note**
+You need to wait a few seconds until the logs in the console display this at the end
+
+```bash
+arizona-plants-qdrant  | 2025-10-20T05:52:14.693279Z  INFO qdrant::tonic: Qdrant gRPC listening on 6334
+arizona-plants-qdrant  | 2025-10-20T05:52:14.693287Z  INFO qdrant::tonic: TLS disabled for gRPC API
+arizona-plants-api     | onnxruntime cpuid_info warning: Unknown CPU vendor. cpuinfo_vendor value: 0
+arizona-plants-api     | INFO:     Started server process [1]
+arizona-plants-api     | INFO:     Waiting for application startup.
+arizona-plants-api     | Initializing Arizona Desert Plants RAG API...
+arizona-plants-api     | Loading embedding model: all-MiniLM-L6-v2
+arizona-plants-api     | ✓ Model loaded (dimension: 384)
+arizona-plants-api     | ✓ Qdrant client initialized
+arizona-plants-api     | ✓ Connected to Qdrant at http://qdrant:6333
+arizona-plants-api     | ✓ RAG system initialized
+arizona-plants-api     | INFO:     Application startup complete.
+arizona-plants-api     | INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+arizona-plants-api     | INFO:     151.101.198.132:18417 - "GET /docs HTTP/1.1" 200 OK
+```
 
 ### Option B: Run API Locally (For Development) 💻
 

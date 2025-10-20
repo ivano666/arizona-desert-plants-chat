@@ -4,7 +4,8 @@ from sentence_transformers import SentenceTransformer
 class ArizonaPlantVectorStore:
     def __init__(self, 
                  embedding_model_name='all-MiniLM-L6-v2',
-                 collection_name='arizona_plants'):
+                 collection_name='arizona_plants',
+                 qdrant_url='http://localhost:6333'):
         """
         Initialize the vector store
         
@@ -13,6 +14,7 @@ class ArizonaPlantVectorStore:
             collection_name: Name for the Qdrant collection
         """
         self.collection_name = collection_name
+        self.qdrant_url = qdrant_url
         
         # Initialize embedding model
         print(f"Loading embedding model: {embedding_model_name}")
@@ -21,7 +23,7 @@ class ArizonaPlantVectorStore:
         print(f"✓ Model loaded (dimension: {self.embedding_dim})")
         
         # Initialize Qdrant client
-        self.client = QdrantClient()
+        self.client = QdrantClient(url=self.qdrant_url)
         print("✓ Qdrant client initialized")
     
     def search(self, query: str, limit: int = 5):

@@ -5,51 +5,42 @@ services:
     image: qdrant/qdrant:latest
     container_name: arizona-plants-qdrant
     ports:
-      - "6333:6333"  # REST API
-      - "6334:6334"  # gRPC API
+      - "6333:6333"
+      - "6334:6334"
     volumes:
-      - ./qdrant_storage:/qdrant/storage  # Persist data
+      - ./qdrant_storage:/qdrant/storage
     environment:
       - QDRANT__SERVICE__GRPC_PORT=6334
-    restart: unless-stopped
     networks:
       - arizona-plants-network
+    # Simplified health check
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:6333/health"]
-      interval: 30s
-      timeout: 10s
-      retries: 3
+      test: ["CMD-SHELL", "wget --spider -q http://localhost:6333/ || exit 1"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
       start_period: 10s
 
   api:
     build:
       context: .
       dockerfile: Dockerfile
-    working_dir: /app/assistant-app
     container_name: arizona-plants-api
     ports:
-      - "8000:8000"  # API
+      - "8000:8000"
     volumes:
-      - model_cache:/root/.cache/huggingface  # Cache embedding models
-      - model_cache_torch:/root/.cache/torch  # Cache PyTorch models
+      - model_cache:/root/.cache/huggingface
+      - model_cache_torch:/root/.cache/torch
     environment:
       - OPENAI_API_KEY=${OPENAI_API_KEY}
       - QDRANT_URL=http://qdrant:6333
       - COLLECTION_NAME=arizona_plants
       - EMBEDDING_MODEL=all-MiniLM-L6-v2
-      - HF_HOME=/root/.cache/huggingface  # HuggingFace cache location
+      - HF_HOME=/root/.cache/huggingface
     depends_on:
-      qdrant:
-        condition: service_healthy
-    restart: unless-stopped
+      - qdrant  # Simple depends_on without health check
     networks:
       - arizona-plants-network
-    healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
-      interval: 30s
-      timeout: 10s
-      retries: 3
-      start_period: 30s
 
 networks:
   arizona-plants-network:
