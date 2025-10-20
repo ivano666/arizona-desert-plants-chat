@@ -2,11 +2,18 @@ from qdrant_client import QdrantClient
 from qdrant_client.models import Distance, VectorParams, PointStruct
 from sentence_transformers import SentenceTransformer
 from tqdm import tqdm
+from typing import List, Dict
+from pathlib import Path
+
+import os
+import json
+
 
 class ArizonaPlantVectorStore:
     def __init__(self, 
                  embedding_model_name='all-MiniLM-L6-v2',
-                 collection_name='arizona_plants'):
+                 collection_name='arizona_plants',
+                 qdrant_url='http://localhost:6333'):
         """
         Initialize the vector store
         
@@ -22,6 +29,7 @@ class ArizonaPlantVectorStore:
         print("="*60)
         
         self.collection_name = collection_name
+        self.qdrant_url = qdrant_url
         
         # Initialize embedding model
         print(f"\n1. Loading embedding model: {embedding_model_name}")
@@ -31,7 +39,7 @@ class ArizonaPlantVectorStore:
         
         # Initialize Qdrant client
         print("\n2. Initializing Qdrant client")
-        self.client = QdrantClient()
+        self.client = QdrantClient(url=self.qdrant_url)
         print("   ✓ Client initialized")
         
     def load_dataset(self, dataset_path: str) -> List[Dict]:
@@ -261,8 +269,9 @@ class ArizonaPlantVectorStore:
 
 if __name__ == "__main__":
     # Configuration
-    DATASET_PATH = "../data-preparation/arizona_plants_unified_20251018.jsonl"
+    DATASET_PATH = "data-preparation/arizona_plants_unified_20251018.jsonl"
     EMBEDDING_MODEL = "all-MiniLM-L6-v2"  # Fast and efficient
+    QDRANT_URL = os.getenv("QDRANT_URL", "http://localhost:6333")
 
     # Alternative models (uncomment to use):
     # EMBEDDING_MODEL = "all-mpnet-base-v2"  # Better quality, slower
@@ -272,7 +281,8 @@ if __name__ == "__main__":
         # Initialize vector store
         vector_store = ArizonaPlantVectorStore(
             embedding_model_name=EMBEDDING_MODEL,
-            collection_name='arizona_plants'
+            collection_name='arizona_plants',
+            qdrant_url=QDRANT_URL
         )
         
         # Build the index
