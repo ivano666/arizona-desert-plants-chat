@@ -95,22 +95,6 @@ By providing accessible, accurate, and regionally appropriate plant information,
 - Support sustainable desert gardening practices
 - Make expert horticultural knowledge accessible to all skill levels
 
-
-## Technologies
-
-- Python 3.12
-- Docker and Docker Compose
-- Qdrant for the vector store
-- LLM is OpenAI
-
-## Pre-requisites
-
-An OPENAI API key is required:
-1. Since we are using OpenAI, it is a good practice to create a new project and key
-2. Install direnv for your operating system - [link](https://direnv.net/docs/installation.html)
-    1. Follow the **basic installation** instructions as well as **how to hook onto your shell**
-    2. The quick demo section in their documentation shows an example on how to create an env variable
-
 ## Dataset Overview and Preparation
 
 The knowledge base consists of high-quality, authoritative sources:
@@ -130,13 +114,13 @@ The knowledge base consists of high-quality, authoritative sources:
 
 **Total Dataset**: ~400,000 characters of curated, Arizona-focused content combining scientific rigor with practical expertise.
 
-All the data currently used in the application can be found in the [data-preparation directory](data-preparation)
+All the data currently used in the application can be found in the [data preparation directory](data-preparation)
 
-The tooling can be found in the data preparation jupyter notebook [data-preparation.ipynb](data-preparation/data-preparation.ipynb)
+The tooling can be found in the [data preparation jupyter notebook](data-preparation/data-preparation.ipynb)
 
 ## Data Ingestion
 
-We used the jupyter notebook [data-ingestion.ipynb](data-ingestion/data-ingestion.ipynb) while we were developing the RAG pipeline. However, we created an standalone python script to be used as part of the setup to run the assistant
+We used a jupyter notebook for [data ingestion](data-ingestion/data-ingestion.ipynb) while we were developing the RAG pipeline. However, we created an standalone python script to be used as part of the setup to run the assistant
 
 ## Evaluation
 
@@ -161,6 +145,7 @@ Steps:
       4. Clarity (Well written responses)
       5. Overall score (mean of average score from all the metrics)
 
+We generated the evaluation metrics and results using a jupyter [notebook](evaluation/rag-evaluator.ipynb). The ground truth data was saved to [ground_truth_qa.json](evaluation/ground_truth_qa.json)
 
 ### Retrieval Metrics:
 - Hit Rate@5: 96.00% -- Finds the right document 96% of the time in the top 5 results
@@ -177,4 +162,7 @@ Steps:
 
 N/A yet
 
+## Running and using the assistant
+
+For instructions on how to run the application using ```docker-compose``` or development mode see [Arizona Plants RAG API](arizona-plants-rag-api.md)
 
