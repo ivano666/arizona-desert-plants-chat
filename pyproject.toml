@@ -15,6 +15,9 @@ dependencies = [
     "requests>=2.32.5",
     "sentence-transformers>=5.1.1",
     "tqdm>=4.67.1",
+    "fastapi>=0.104.1", # Add this
+    "uvicorn[standard]>=0.24.0", # Add this
+    "python-dotenv>=1.0.0", # Add this (for .env support)
 ]
 
 [dependency-groups]
