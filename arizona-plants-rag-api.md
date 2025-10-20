@@ -13,7 +13,7 @@
 1. An OPENAI API key is required:
     - Since we are using OpenAI, it is a good practice to create a new project and key
 2. Have Python 3.12 installed
-3. Instal uv **only required if running locally for Development**
+3. Instal uv
     - [Instructions](https://docs.astral.sh/uv/getting-started/installation/) how to install
     - Python can be installed once UV is installed as well
 
